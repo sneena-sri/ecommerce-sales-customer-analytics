@@ -1,0 +1,1201 @@
+customer_id,customer_name,signup_date,segment,city,region,acquisition_channel
+CUST00001,Customer 00001,2022-02-21,Small Business,Bengaluru,South,Organic Search
+CUST00002,Customer 00002,2022-07-29,Consumer,Hyderabad,South,Direct
+CUST00003,Customer 00003,2025-04-24,Consumer,Bengaluru,South,Organic Search
+CUST00004,Customer 00004,2023-04-22,Consumer,Mumbai,West,Organic Search
+CUST00005,Customer 00005,2025-01-21,Consumer,Mumbai,West,Paid Search
+CUST00006,Customer 00006,2022-01-14,Small Business,Pune,West,Organic Search
+CUST00007,Customer 00007,2023-11-28,Consumer,Kolkata,East,Organic Search
+CUST00008,Customer 00008,2022-07-29,Consumer,Delhi,North,Organic Search
+CUST00009,Customer 00009,2025-05-21,Consumer,Delhi,North,Organic Search
+CUST00010,Customer 00010,2025-01-03,Consumer,Ahmedabad,West,Direct
+CUST00011,Customer 00011,2025-02-04,Consumer,Bengaluru,South,Referral
+CUST00012,Customer 00012,2025-03-28,Consumer,Delhi,North,Organic Search
+CUST00013,Customer 00013,2023-08-16,Corporate,Mumbai,West,Direct
+CUST00014,Customer 00014,2024-02-18,Consumer,Bengaluru,South,Referral
+CUST00015,Customer 00015,2022-11-30,Consumer,Delhi,North,Organic Search
+CUST00016,Customer 00016,2022-05-27,Consumer,Pune,West,Organic Search
+CUST00017,Customer 00017,2022-12-01,Consumer,Mumbai,West,Paid Search
+CUST00018,Customer 00018,2023-03-26,Consumer,Coimbatore,South,Email
+CUST00019,Customer 00019,2023-04-15,Small Business,Chennai,South,Email
+CUST00020,Customer 00020,2023-07-03,Consumer,Kolkata,East,Direct
+CUST00021,Customer 00021,2023-10-07,Consumer,Jaipur,North,Social Media
+CUST00022,Customer 00022,2022-10-20,Consumer,Ahmedabad,West,Organic Search
+CUST00023,Customer 00023,2025-01-08,Consumer,Coimbatore,South,Social Media
+CUST00024,Customer 00024,2024-03-28,Consumer,Jaipur,North,Direct
+CUST00025,Customer 00025,2024-11-09,Consumer,Hyderabad,South,Email
+CUST00026,Customer 00026,2022-11-10,Consumer,Bengaluru,South,Email
+CUST00027,Customer 00027,2025-05-06,Consumer,Kolkata,East,Paid Search
+CUST00028,Customer 00028,2024-12-19,Consumer,Ahmedabad,West,Social Media
+CUST00029,Customer 00029,2022-08-23,Consumer,Chennai,South,Social Media
+CUST00030,Customer 00030,2023-11-28,Consumer,Pune,West,Paid Search
+CUST00031,Customer 00031,2022-01-07,Corporate,Ahmedabad,West,Direct
+CUST00032,Customer 00032,2024-10-22,Small Business,Pune,West,Social Media
+CUST00033,Customer 00033,2023-09-04,Small Business,Bengaluru,South,Social Media
+CUST00034,Customer 00034,2022-11-10,Consumer,Mumbai,West,Organic Search
+CUST00035,Customer 00035,2022-01-02,Consumer,Coimbatore,South,Social Media
+CUST00036,Customer 00036,2024-01-14,Small Business,Bengaluru,South,Email
+CUST00037,Customer 00037,2023-05-06,Consumer,Pune,West,Direct
+CUST00038,Customer 00038,2022-06-25,Small Business,Bengaluru,South,Email
+CUST00039,Customer 00039,2022-09-15,Consumer,Coimbatore,South,Social Media
+CUST00040,Customer 00040,2022-12-05,Consumer,Coimbatore,South,Direct
+CUST00041,Customer 00041,2023-03-10,Corporate,Kolkata,East,Email
+CUST00042,Customer 00042,2023-10-01,Consumer,Mumbai,West,Referral
+CUST00043,Customer 00043,2024-06-16,Small Business,Delhi,North,Social Media
+CUST00044,Customer 00044,2023-04-06,Consumer,Mumbai,West,Organic Search
+CUST00045,Customer 00045,2023-04-17,Consumer,Coimbatore,South,Organic Search
+CUST00046,Customer 00046,2023-04-14,Consumer,Chennai,South,Organic Search
+CUST00047,Customer 00047,2022-05-26,Consumer,Delhi,North,Paid Search
+CUST00048,Customer 00048,2023-03-15,Consumer,Ahmedabad,West,Email
+CUST00049,Customer 00049,2025-03-26,Consumer,Jaipur,North,Email
+CUST00050,Customer 00050,2023-01-25,Consumer,Kolkata,East,Referral
+CUST00051,Customer 00051,2024-05-17,Consumer,Delhi,North,Direct
+CUST00052,Customer 00052,2022-07-21,Consumer,Chennai,South,Email
+CUST00053,Customer 00053,2023-05-25,Consumer,Bengaluru,South,Social Media
+CUST00054,Customer 00054,2024-05-14,Consumer,Hyderabad,South,Social Media
+CUST00055,Customer 00055,2024-06-26,Small Business,Bengaluru,South,Direct
+CUST00056,Customer 00056,2022-04-14,Consumer,Bengaluru,South,Social Media
+CUST00057,Customer 00057,2022-07-11,Corporate,Chennai,South,Email
+CUST00058,Customer 00058,2024-04-12,Consumer,Hyderabad,South,Organic Search
+CUST00059,Customer 00059,2022-05-01,Consumer,Kolkata,East,Organic Search
+CUST00060,Customer 00060,2023-06-28,Corporate,Kolkata,East,Email
+CUST00061,Customer 00061,2024-05-16,Consumer,Pune,West,Email
+CUST00062,Customer 00062,2024-09-23,Consumer,Coimbatore,South,Paid Search
+CUST00063,Customer 00063,2025-04-01,Small Business,Chennai,South,Organic Search
+CUST00064,Customer 00064,2022-04-28,Consumer,Delhi,North,Social Media
+CUST00065,Customer 00065,2022-11-19,Consumer,Coimbatore,South,Social Media
+CUST00066,Customer 00066,2022-05-21,Consumer,Hyderabad,South,Referral
+CUST00067,Customer 00067,2024-04-06,Consumer,Mumbai,West,Direct
+CUST00068,Customer 00068,2025-03-31,Consumer,Mumbai,West,Referral
+CUST00069,Customer 00069,2025-04-10,Consumer,Kolkata,East,Paid Search
+CUST00070,Customer 00070,2023-02-23,Consumer,Pune,West,Paid Search
+CUST00071,Customer 00071,2024-03-21,Consumer,Pune,West,Referral
+CUST00072,Customer 00072,2023-10-10,Corporate,Ahmedabad,West,Direct
+CUST00073,Customer 00073,2024-07-27,Consumer,Chennai,South,Social Media
+CUST00074,Customer 00074,2022-05-31,Consumer,Bengaluru,South,Social Media
+CUST00075,Customer 00075,2023-12-16,Small Business,Hyderabad,South,Direct
+CUST00076,Customer 00076,2023-08-07,Consumer,Delhi,North,Email
+CUST00077,Customer 00077,2024-12-19,Consumer,Pune,West,Email
+CUST00078,Customer 00078,2022-08-01,Corporate,Pune,West,Organic Search
+CUST00079,Customer 00079,2022-08-08,Small Business,Bengaluru,South,Organic Search
+CUST00080,Customer 00080,2025-05-23,Consumer,Pune,West,Paid Search
+CUST00081,Customer 00081,2024-11-01,Consumer,Pune,West,Direct
+CUST00082,Customer 00082,2022-07-09,Consumer,Chennai,South,Email
+CUST00083,Customer 00083,2022-01-08,Consumer,Chennai,South,Organic Search
+CUST00084,Customer 00084,2022-11-27,Small Business,Pune,West,Social Media
+CUST00085,Customer 00085,2025-02-22,Consumer,Kolkata,East,Organic Search
+CUST00086,Customer 00086,2025-01-22,Consumer,Hyderabad,South,Paid Search
+CUST00087,Customer 00087,2022-10-31,Consumer,Coimbatore,South,Organic Search
+CUST00088,Customer 00088,2022-03-23,Small Business,Delhi,North,Organic Search
+CUST00089,Customer 00089,2022-07-30,Consumer,Mumbai,West,Social Media
+CUST00090,Customer 00090,2022-11-13,Corporate,Kolkata,East,Organic Search
+CUST00091,Customer 00091,2022-12-29,Small Business,Hyderabad,South,Organic Search
+CUST00092,Customer 00092,2024-04-23,Small Business,Delhi,North,Direct
+CUST00093,Customer 00093,2023-07-01,Consumer,Mumbai,West,Referral
+CUST00094,Customer 00094,2022-03-21,Small Business,Kolkata,East,Organic Search
+CUST00095,Customer 00095,2023-12-18,Consumer,Ahmedabad,West,Email
+CUST00096,Customer 00096,2023-04-02,Consumer,Mumbai,West,Organic Search
+CUST00097,Customer 00097,2023-07-25,Small Business,Delhi,North,Direct
+CUST00098,Customer 00098,2023-12-21,Consumer,Pune,West,Paid Search
+CUST00099,Customer 00099,2023-11-10,Corporate,Coimbatore,South,Organic Search
+CUST00100,Customer 00100,2023-01-01,Consumer,Pune,West,Direct
+CUST00101,Customer 00101,2022-08-11,Consumer,Chennai,South,Paid Search
+CUST00102,Customer 00102,2024-06-12,Consumer,Delhi,North,Social Media
+CUST00103,Customer 00103,2025-03-26,Consumer,Kolkata,East,Organic Search
+CUST00104,Customer 00104,2022-01-04,Consumer,Kolkata,East,Email
+CUST00105,Customer 00105,2024-01-16,Consumer,Mumbai,West,Direct
+CUST00106,Customer 00106,2023-10-05,Consumer,Delhi,North,Organic Search
+CUST00107,Customer 00107,2024-11-04,Consumer,Pune,West,Paid Search
+CUST00108,Customer 00108,2023-08-29,Consumer,Kolkata,East,Organic Search
+CUST00109,Customer 00109,2022-12-23,Consumer,Kolkata,East,Paid Search
+CUST00110,Customer 00110,2022-01-01,Consumer,Coimbatore,South,Organic Search
+CUST00111,Customer 00111,2025-05-27,Consumer,Jaipur,North,Social Media
+CUST00112,Customer 00112,2023-03-14,Consumer,Ahmedabad,West,Email
+CUST00113,Customer 00113,2022-06-23,Consumer,Hyderabad,South,Referral
+CUST00114,Customer 00114,2023-11-18,Consumer,Jaipur,North,Direct
+CUST00115,Customer 00115,2023-09-28,Consumer,Mumbai,West,Organic Search
+CUST00116,Customer 00116,2022-04-05,Consumer,Chennai,South,Social Media
+CUST00117,Customer 00117,2024-07-21,Consumer,Bengaluru,South,Referral
+CUST00118,Customer 00118,2024-02-26,Consumer,Mumbai,West,Organic Search
+CUST00119,Customer 00119,2022-08-07,Small Business,Chennai,South,Organic Search
+CUST00120,Customer 00120,2024-08-09,Consumer,Coimbatore,South,Organic Search
+CUST00121,Customer 00121,2024-07-23,Consumer,Bengaluru,South,Social Media
+CUST00122,Customer 00122,2025-02-18,Consumer,Coimbatore,South,Direct
+CUST00123,Customer 00123,2024-10-30,Consumer,Ahmedabad,West,Direct
+CUST00124,Customer 00124,2022-11-22,Small Business,Ahmedabad,West,Social Media
+CUST00125,Customer 00125,2023-05-22,Small Business,Pune,West,Paid Search
+CUST00126,Customer 00126,2024-09-19,Consumer,Coimbatore,South,Paid Search
+CUST00127,Customer 00127,2023-08-09,Consumer,Bengaluru,South,Paid Search
+CUST00128,Customer 00128,2022-06-15,Consumer,Coimbatore,South,Organic Search
+CUST00129,Customer 00129,2023-03-15,Consumer,Hyderabad,South,Paid Search
+CUST00130,Customer 00130,2024-08-12,Consumer,Coimbatore,South,Organic Search
+CUST00131,Customer 00131,2024-03-08,Small Business,Kolkata,East,Social Media
+CUST00132,Customer 00132,2025-03-25,Consumer,Chennai,South,Organic Search
+CUST00133,Customer 00133,2023-09-04,Small Business,Delhi,North,Direct
+CUST00134,Customer 00134,2025-01-07,Small Business,Kolkata,East,Social Media
+CUST00135,Customer 00135,2023-03-28,Consumer,Jaipur,North,Paid Search
+CUST00136,Customer 00136,2022-03-01,Consumer,Ahmedabad,West,Referral
+CUST00137,Customer 00137,2022-12-05,Small Business,Kolkata,East,Direct
+CUST00138,Customer 00138,2024-12-29,Consumer,Jaipur,North,Paid Search
+CUST00139,Customer 00139,2022-02-25,Consumer,Jaipur,North,Paid Search
+CUST00140,Customer 00140,2023-01-08,Consumer,Ahmedabad,West,Paid Search
+CUST00141,Customer 00141,2024-07-20,Consumer,Mumbai,West,Email
+CUST00142,Customer 00142,2023-07-24,Small Business,Kolkata,East,Email
+CUST00143,Customer 00143,2022-06-17,Consumer,Pune,West,Email
+CUST00144,Customer 00144,2023-12-18,Consumer,Chennai,South,Organic Search
+CUST00145,Customer 00145,2022-03-05,Corporate,Chennai,South,Organic Search
+CUST00146,Customer 00146,2022-11-09,Consumer,Chennai,South,Social Media
+CUST00147,Customer 00147,2025-03-01,Corporate,Bengaluru,South,Social Media
+CUST00148,Customer 00148,2024-01-26,Consumer,Pune,West,Referral
+CUST00149,Customer 00149,2022-12-02,Corporate,Bengaluru,South,Organic Search
+CUST00150,Customer 00150,2023-10-01,Consumer,Chennai,South,Direct
+CUST00151,Customer 00151,2024-03-23,Corporate,Kolkata,East,Organic Search
+CUST00152,Customer 00152,2023-05-13,Consumer,Jaipur,North,Email
+CUST00153,Customer 00153,2022-09-05,Small Business,Jaipur,North,Social Media
+CUST00154,Customer 00154,2023-12-13,Consumer,Chennai,South,Referral
+CUST00155,Customer 00155,2024-11-02,Consumer,Bengaluru,South,Organic Search
+CUST00156,Customer 00156,2024-09-30,Consumer,Kolkata,East,Direct
+CUST00157,Customer 00157,2022-11-10,Consumer,Ahmedabad,West,Email
+CUST00158,Customer 00158,2025-01-07,Small Business,Pune,West,Social Media
+CUST00159,Customer 00159,2023-07-04,Consumer,Jaipur,North,Organic Search
+CUST00160,Customer 00160,2023-07-26,Small Business,Bengaluru,South,Organic Search
+CUST00161,Customer 00161,2025-03-13,Consumer,Ahmedabad,West,Paid Search
+CUST00162,Customer 00162,2024-10-09,Small Business,Chennai,South,Organic Search
+CUST00163,Customer 00163,2023-12-28,Small Business,Mumbai,West,Paid Search
+CUST00164,Customer 00164,2023-07-20,Consumer,Jaipur,North,Social Media
+CUST00165,Customer 00165,2022-06-25,Consumer,Mumbai,West,Paid Search
+CUST00166,Customer 00166,2023-05-08,Consumer,Coimbatore,South,Referral
+CUST00167,Customer 00167,2024-07-06,Small Business,Ahmedabad,West,Organic Search
+CUST00168,Customer 00168,2024-04-08,Consumer,Mumbai,West,Paid Search
+CUST00169,Customer 00169,2024-01-26,Consumer,Jaipur,North,Social Media
+CUST00170,Customer 00170,2025-02-01,Consumer,Kolkata,East,Referral
+CUST00171,Customer 00171,2023-09-20,Consumer,Pune,West,Organic Search
+CUST00172,Customer 00172,2023-10-09,Consumer,Mumbai,West,Social Media
+CUST00173,Customer 00173,2023-01-28,Consumer,Hyderabad,South,Social Media
+CUST00174,Customer 00174,2024-12-10,Consumer,Jaipur,North,Direct
+CUST00175,Customer 00175,2023-08-30,Consumer,Mumbai,West,Organic Search
+CUST00176,Customer 00176,2024-12-29,Consumer,Chennai,South,Organic Search
+CUST00177,Customer 00177,2025-02-07,Consumer,Chennai,South,Direct
+CUST00178,Customer 00178,2022-07-30,Small Business,Ahmedabad,West,Social Media
+CUST00179,Customer 00179,2024-09-07,Consumer,Ahmedabad,West,Organic Search
+CUST00180,Customer 00180,2023-06-02,Corporate,Chennai,South,Social Media
+CUST00181,Customer 00181,2024-03-31,Consumer,Bengaluru,South,Social Media
+CUST00182,Customer 00182,2022-11-07,Consumer,Chennai,South,Social Media
+CUST00183,Customer 00183,2022-06-24,Corporate,Pune,West,Organic Search
+CUST00184,Customer 00184,2025-05-26,Consumer,Kolkata,East,Referral
+CUST00185,Customer 00185,2024-02-19,Consumer,Coimbatore,South,Paid Search
+CUST00186,Customer 00186,2024-05-28,Consumer,Jaipur,North,Referral
+CUST00187,Customer 00187,2022-07-23,Corporate,Jaipur,North,Organic Search
+CUST00188,Customer 00188,2023-06-26,Consumer,Mumbai,West,Organic Search
+CUST00189,Customer 00189,2025-02-04,Consumer,Hyderabad,South,Organic Search
+CUST00190,Customer 00190,2025-05-01,Consumer,Ahmedabad,West,Organic Search
+CUST00191,Customer 00191,2023-08-03,Consumer,Pune,West,Social Media
+CUST00192,Customer 00192,2023-06-26,Small Business,Mumbai,West,Referral
+CUST00193,Customer 00193,2024-05-20,Consumer,Mumbai,West,Organic Search
+CUST00194,Customer 00194,2023-06-29,Small Business,Hyderabad,South,Organic Search
+CUST00195,Customer 00195,2023-09-22,Consumer,Hyderabad,South,Email
+CUST00196,Customer 00196,2024-06-18,Consumer,Pune,West,Referral
+CUST00197,Customer 00197,2023-07-12,Consumer,Kolkata,East,Social Media
+CUST00198,Customer 00198,2025-05-09,Consumer,Bengaluru,South,Paid Search
+CUST00199,Customer 00199,2025-05-21,Consumer,Delhi,North,Organic Search
+CUST00200,Customer 00200,2025-04-17,Corporate,Jaipur,North,Direct
+CUST00201,Customer 00201,2025-03-26,Consumer,Pune,West,Email
+CUST00202,Customer 00202,2024-11-28,Consumer,Ahmedabad,West,Direct
+CUST00203,Customer 00203,2025-04-13,Consumer,Hyderabad,South,Email
+CUST00204,Customer 00204,2024-08-20,Consumer,Bengaluru,South,Paid Search
+CUST00205,Customer 00205,2022-11-26,Consumer,Bengaluru,South,Referral
+CUST00206,Customer 00206,2024-03-31,Small Business,Pune,West,Social Media
+CUST00207,Customer 00207,2022-06-30,Consumer,Ahmedabad,West,Paid Search
+CUST00208,Customer 00208,2024-11-19,Small Business,Kolkata,East,Organic Search
+CUST00209,Customer 00209,2024-08-04,Consumer,Coimbatore,South,Organic Search
+CUST00210,Customer 00210,2024-10-17,Consumer,Delhi,North,Email
+CUST00211,Customer 00211,2023-07-01,Consumer,Mumbai,West,Direct
+CUST00212,Customer 00212,2024-09-19,Consumer,Ahmedabad,West,Direct
+CUST00213,Customer 00213,2023-05-06,Consumer,Jaipur,North,Paid Search
+CUST00214,Customer 00214,2025-02-05,Consumer,Chennai,South,Organic Search
+CUST00215,Customer 00215,2024-08-03,Corporate,Bengaluru,South,Referral
+CUST00216,Customer 00216,2024-10-17,Corporate,Hyderabad,South,Paid Search
+CUST00217,Customer 00217,2024-04-30,Small Business,Pune,West,Direct
+CUST00218,Customer 00218,2024-07-24,Consumer,Mumbai,West,Paid Search
+CUST00219,Customer 00219,2024-11-06,Small Business,Jaipur,North,Organic Search
+CUST00220,Customer 00220,2023-07-20,Small Business,Bengaluru,South,Direct
+CUST00221,Customer 00221,2024-11-05,Consumer,Delhi,North,Organic Search
+CUST00222,Customer 00222,2025-04-17,Consumer,Pune,West,Referral
+CUST00223,Customer 00223,2024-07-03,Consumer,Hyderabad,South,Paid Search
+CUST00224,Customer 00224,2025-01-17,Consumer,Coimbatore,South,Direct
+CUST00225,Customer 00225,2023-05-05,Consumer,Mumbai,West,Organic Search
+CUST00226,Customer 00226,2022-03-31,Consumer,Kolkata,East,Social Media
+CUST00227,Customer 00227,2024-03-01,Corporate,Kolkata,East,Email
+CUST00228,Customer 00228,2024-10-11,Corporate,Hyderabad,South,Organic Search
+CUST00229,Customer 00229,2023-11-11,Small Business,Jaipur,North,Direct
+CUST00230,Customer 00230,2022-07-24,Consumer,Ahmedabad,West,Social Media
+CUST00231,Customer 00231,2024-04-19,Small Business,Hyderabad,South,Direct
+CUST00232,Customer 00232,2024-08-19,Small Business,Bengaluru,South,Paid Search
+CUST00233,Customer 00233,2024-03-25,Consumer,Jaipur,North,Direct
+CUST00234,Customer 00234,2024-02-18,Corporate,Coimbatore,South,Referral
+CUST00235,Customer 00235,2025-01-13,Consumer,Ahmedabad,West,Organic Search
+CUST00236,Customer 00236,2023-04-11,Small Business,Pune,West,Paid Search
+CUST00237,Customer 00237,2022-07-25,Consumer,Bengaluru,South,Referral
+CUST00238,Customer 00238,2022-04-05,Consumer,Chennai,South,Organic Search
+CUST00239,Customer 00239,2024-02-07,Consumer,Delhi,North,Organic Search
+CUST00240,Customer 00240,2025-03-05,Consumer,Kolkata,East,Organic Search
+CUST00241,Customer 00241,2022-06-11,Consumer,Hyderabad,South,Paid Search
+CUST00242,Customer 00242,2024-10-16,Small Business,Mumbai,West,Organic Search
+CUST00243,Customer 00243,2023-06-05,Consumer,Ahmedabad,West,Referral
+CUST00244,Customer 00244,2023-08-13,Consumer,Ahmedabad,West,Organic Search
+CUST00245,Customer 00245,2023-12-09,Corporate,Ahmedabad,West,Paid Search
+CUST00246,Customer 00246,2023-05-28,Consumer,Kolkata,East,Paid Search
+CUST00247,Customer 00247,2024-09-16,Consumer,Kolkata,East,Paid Search
+CUST00248,Customer 00248,2025-03-23,Consumer,Delhi,North,Referral
+CUST00249,Customer 00249,2024-03-21,Consumer,Chennai,South,Social Media
+CUST00250,Customer 00250,2025-05-26,Small Business,Chennai,South,Email
+CUST00251,Customer 00251,2023-04-17,Consumer,Pune,West,Paid Search
+CUST00252,Customer 00252,2023-05-29,Consumer,Mumbai,West,Email
+CUST00253,Customer 00253,2022-07-18,Small Business,Hyderabad,South,Referral
+CUST00254,Customer 00254,2024-06-21,Consumer,Pune,West,Paid Search
+CUST00255,Customer 00255,2022-07-04,Small Business,Hyderabad,South,Paid Search
+CUST00256,Customer 00256,2022-12-26,Consumer,Kolkata,East,Email
+CUST00257,Customer 00257,2024-12-23,Consumer,Delhi,North,Paid Search
+CUST00258,Customer 00258,2023-06-11,Small Business,Hyderabad,South,Direct
+CUST00259,Customer 00259,2023-11-25,Small Business,Pune,West,Social Media
+CUST00260,Customer 00260,2022-10-16,Small Business,Bengaluru,South,Organic Search
+CUST00261,Customer 00261,2025-02-15,Consumer,Kolkata,East,Email
+CUST00262,Customer 00262,2023-06-26,Consumer,Chennai,South,Social Media
+CUST00263,Customer 00263,2025-04-12,Consumer,Pune,West,Referral
+CUST00264,Customer 00264,2022-08-10,Consumer,Delhi,North,Social Media
+CUST00265,Customer 00265,2025-02-23,Consumer,Jaipur,North,Referral
+CUST00266,Customer 00266,2024-08-08,Small Business,Bengaluru,South,Paid Search
+CUST00267,Customer 00267,2022-08-27,Consumer,Kolkata,East,Direct
+CUST00268,Customer 00268,2024-10-05,Consumer,Pune,West,Organic Search
+CUST00269,Customer 00269,2022-10-05,Consumer,Coimbatore,South,Paid Search
+CUST00270,Customer 00270,2024-05-08,Consumer,Coimbatore,South,Email
+CUST00271,Customer 00271,2022-07-22,Small Business,Kolkata,East,Referral
+CUST00272,Customer 00272,2022-03-09,Consumer,Pune,West,Organic Search
+CUST00273,Customer 00273,2023-04-29,Small Business,Ahmedabad,West,Organic Search
+CUST00274,Customer 00274,2025-01-20,Small Business,Delhi,North,Referral
+CUST00275,Customer 00275,2024-03-26,Consumer,Chennai,South,Direct
+CUST00276,Customer 00276,2022-07-07,Consumer,Ahmedabad,West,Referral
+CUST00277,Customer 00277,2022-02-13,Consumer,Jaipur,North,Paid Search
+CUST00278,Customer 00278,2025-03-02,Consumer,Hyderabad,South,Email
+CUST00279,Customer 00279,2023-03-01,Consumer,Coimbatore,South,Email
+CUST00280,Customer 00280,2023-11-04,Small Business,Mumbai,West,Email
+CUST00281,Customer 00281,2022-01-06,Consumer,Jaipur,North,Direct
+CUST00282,Customer 00282,2025-01-11,Consumer,Hyderabad,South,Organic Search
+CUST00283,Customer 00283,2022-09-27,Consumer,Chennai,South,Email
+CUST00284,Customer 00284,2025-04-20,Consumer,Mumbai,West,Organic Search
+CUST00285,Customer 00285,2022-09-17,Small Business,Chennai,South,Social Media
+CUST00286,Customer 00286,2024-09-02,Consumer,Bengaluru,South,Paid Search
+CUST00287,Customer 00287,2022-08-12,Consumer,Jaipur,North,Organic Search
+CUST00288,Customer 00288,2022-03-30,Small Business,Jaipur,North,Direct
+CUST00289,Customer 00289,2023-09-10,Consumer,Coimbatore,South,Direct
+CUST00290,Customer 00290,2024-09-07,Small Business,Chennai,South,Paid Search
+CUST00291,Customer 00291,2024-10-01,Consumer,Bengaluru,South,Paid Search
+CUST00292,Customer 00292,2023-10-22,Consumer,Bengaluru,South,Organic Search
+CUST00293,Customer 00293,2025-04-13,Consumer,Pune,West,Paid Search
+CUST00294,Customer 00294,2024-12-22,Consumer,Jaipur,North,Social Media
+CUST00295,Customer 00295,2022-07-23,Small Business,Kolkata,East,Organic Search
+CUST00296,Customer 00296,2023-03-17,Consumer,Coimbatore,South,Direct
+CUST00297,Customer 00297,2023-11-26,Small Business,Kolkata,East,Paid Search
+CUST00298,Customer 00298,2023-10-03,Consumer,Bengaluru,South,Referral
+CUST00299,Customer 00299,2022-11-09,Consumer,Delhi,North,Social Media
+CUST00300,Customer 00300,2022-06-24,Consumer,Bengaluru,South,Organic Search
+CUST00301,Customer 00301,2022-09-24,Consumer,Delhi,North,Social Media
+CUST00302,Customer 00302,2025-02-24,Consumer,Coimbatore,South,Organic Search
+CUST00303,Customer 00303,2024-05-16,Small Business,Delhi,North,Email
+CUST00304,Customer 00304,2025-05-14,Consumer,Pune,West,Organic Search
+CUST00305,Customer 00305,2023-03-12,Consumer,Coimbatore,South,Social Media
+CUST00306,Customer 00306,2023-12-19,Small Business,Bengaluru,South,Paid Search
+CUST00307,Customer 00307,2025-03-21,Consumer,Pune,West,Paid Search
+CUST00308,Customer 00308,2025-02-14,Consumer,Coimbatore,South,Direct
+CUST00309,Customer 00309,2022-03-01,Consumer,Pune,West,Referral
+CUST00310,Customer 00310,2023-11-27,Consumer,Pune,West,Organic Search
+CUST00311,Customer 00311,2025-03-05,Consumer,Hyderabad,South,Organic Search
+CUST00312,Customer 00312,2022-07-07,Small Business,Chennai,South,Organic Search
+CUST00313,Customer 00313,2024-07-18,Consumer,Kolkata,East,Paid Search
+CUST00314,Customer 00314,2025-03-08,Consumer,Delhi,North,Direct
+CUST00315,Customer 00315,2022-11-19,Small Business,Hyderabad,South,Organic Search
+CUST00316,Customer 00316,2023-07-12,Consumer,Bengaluru,South,Paid Search
+CUST00317,Customer 00317,2024-06-24,Consumer,Jaipur,North,Organic Search
+CUST00318,Customer 00318,2022-08-22,Consumer,Coimbatore,South,Organic Search
+CUST00319,Customer 00319,2024-09-23,Consumer,Jaipur,North,Paid Search
+CUST00320,Customer 00320,2024-03-20,Corporate,Mumbai,West,Organic Search
+CUST00321,Customer 00321,2023-09-10,Corporate,Mumbai,West,Email
+CUST00322,Customer 00322,2023-08-16,Consumer,Pune,West,Organic Search
+CUST00323,Customer 00323,2022-12-26,Consumer,Kolkata,East,Social Media
+CUST00324,Customer 00324,2024-10-21,Consumer,Mumbai,West,Referral
+CUST00325,Customer 00325,2022-05-28,Consumer,Delhi,North,Email
+CUST00326,Customer 00326,2022-02-08,Consumer,Kolkata,East,Organic Search
+CUST00327,Customer 00327,2025-03-25,Consumer,Delhi,North,Paid Search
+CUST00328,Customer 00328,2023-08-16,Consumer,Kolkata,East,Organic Search
+CUST00329,Customer 00329,2022-12-18,Small Business,Delhi,North,Referral
+CUST00330,Customer 00330,2022-06-30,Consumer,Delhi,North,Organic Search
+CUST00331,Customer 00331,2025-04-21,Consumer,Kolkata,East,Organic Search
+CUST00332,Customer 00332,2023-11-27,Consumer,Pune,West,Email
+CUST00333,Customer 00333,2024-11-11,Consumer,Bengaluru,South,Social Media
+CUST00334,Customer 00334,2023-12-17,Consumer,Mumbai,West,Direct
+CUST00335,Customer 00335,2023-04-29,Consumer,Hyderabad,South,Paid Search
+CUST00336,Customer 00336,2025-05-18,Consumer,Hyderabad,South,Email
+CUST00337,Customer 00337,2022-12-29,Corporate,Bengaluru,South,Referral
+CUST00338,Customer 00338,2025-02-28,Small Business,Ahmedabad,West,Paid Search
+CUST00339,Customer 00339,2023-10-24,Small Business,Jaipur,North,Referral
+CUST00340,Customer 00340,2024-06-19,Consumer,Hyderabad,South,Paid Search
+CUST00341,Customer 00341,2023-07-17,Consumer,Pune,West,Paid Search
+CUST00342,Customer 00342,2023-09-28,Consumer,Bengaluru,South,Organic Search
+CUST00343,Customer 00343,2023-08-11,Consumer,Delhi,North,Direct
+CUST00344,Customer 00344,2025-05-01,Consumer,Bengaluru,South,Social Media
+CUST00345,Customer 00345,2022-03-26,Consumer,Coimbatore,South,Email
+CUST00346,Customer 00346,2023-10-21,Consumer,Mumbai,West,Social Media
+CUST00347,Customer 00347,2024-07-11,Consumer,Chennai,South,Direct
+CUST00348,Customer 00348,2022-06-22,Consumer,Delhi,North,Organic Search
+CUST00349,Customer 00349,2024-06-15,Corporate,Mumbai,West,Social Media
+CUST00350,Customer 00350,2022-11-22,Consumer,Jaipur,North,Direct
+CUST00351,Customer 00351,2024-04-17,Small Business,Kolkata,East,Referral
+CUST00352,Customer 00352,2023-11-17,Consumer,Chennai,South,Organic Search
+CUST00353,Customer 00353,2023-08-05,Consumer,Kolkata,East,Direct
+CUST00354,Customer 00354,2022-11-04,Consumer,Jaipur,North,Social Media
+CUST00355,Customer 00355,2023-12-18,Consumer,Hyderabad,South,Referral
+CUST00356,Customer 00356,2022-09-22,Consumer,Kolkata,East,Direct
+CUST00357,Customer 00357,2025-02-18,Consumer,Pune,West,Email
+CUST00358,Customer 00358,2024-12-14,Consumer,Hyderabad,South,Referral
+CUST00359,Customer 00359,2024-01-12,Consumer,Coimbatore,South,Paid Search
+CUST00360,Customer 00360,2023-12-01,Corporate,Mumbai,West,Social Media
+CUST00361,Customer 00361,2022-10-09,Consumer,Mumbai,West,Paid Search
+CUST00362,Customer 00362,2024-11-05,Small Business,Bengaluru,South,Email
+CUST00363,Customer 00363,2022-03-19,Consumer,Coimbatore,South,Direct
+CUST00364,Customer 00364,2022-09-26,Consumer,Jaipur,North,Organic Search
+CUST00365,Customer 00365,2022-12-06,Small Business,Hyderabad,South,Organic Search
+CUST00366,Customer 00366,2023-05-02,Corporate,Delhi,North,Referral
+CUST00367,Customer 00367,2023-04-25,Consumer,Ahmedabad,West,Paid Search
+CUST00368,Customer 00368,2023-02-02,Consumer,Ahmedabad,West,Direct
+CUST00369,Customer 00369,2024-08-03,Small Business,Ahmedabad,West,Email
+CUST00370,Customer 00370,2024-12-16,Consumer,Coimbatore,South,Organic Search
+CUST00371,Customer 00371,2025-05-23,Consumer,Mumbai,West,Paid Search
+CUST00372,Customer 00372,2024-01-31,Consumer,Ahmedabad,West,Organic Search
+CUST00373,Customer 00373,2022-09-13,Consumer,Coimbatore,South,Email
+CUST00374,Customer 00374,2024-07-09,Small Business,Pune,West,Organic Search
+CUST00375,Customer 00375,2022-07-07,Corporate,Kolkata,East,Organic Search
+CUST00376,Customer 00376,2023-12-17,Corporate,Ahmedabad,West,Paid Search
+CUST00377,Customer 00377,2024-10-25,Consumer,Kolkata,East,Paid Search
+CUST00378,Customer 00378,2024-02-07,Consumer,Bengaluru,South,Paid Search
+CUST00379,Customer 00379,2023-11-18,Small Business,Bengaluru,South,Organic Search
+CUST00380,Customer 00380,2024-08-25,Consumer,Pune,West,Organic Search
+CUST00381,Customer 00381,2024-07-07,Consumer,Ahmedabad,West,Direct
+CUST00382,Customer 00382,2023-06-09,Consumer,Chennai,South,Organic Search
+CUST00383,Customer 00383,2024-12-16,Consumer,Jaipur,North,Email
+CUST00384,Customer 00384,2023-09-09,Consumer,Mumbai,West,Organic Search
+CUST00385,Customer 00385,2024-07-25,Consumer,Jaipur,North,Email
+CUST00386,Customer 00386,2025-05-07,Consumer,Ahmedabad,West,Referral
+CUST00387,Customer 00387,2023-05-11,Consumer,Jaipur,North,Paid Search
+CUST00388,Customer 00388,2023-12-24,Consumer,Chennai,South,Paid Search
+CUST00389,Customer 00389,2024-12-08,Corporate,Bengaluru,South,Organic Search
+CUST00390,Customer 00390,2025-01-19,Consumer,Coimbatore,South,Direct
+CUST00391,Customer 00391,2022-02-11,Consumer,Coimbatore,South,Social Media
+CUST00392,Customer 00392,2024-02-04,Consumer,Kolkata,East,Organic Search
+CUST00393,Customer 00393,2023-12-08,Consumer,Bengaluru,South,Referral
+CUST00394,Customer 00394,2025-04-06,Small Business,Bengaluru,South,Paid Search
+CUST00395,Customer 00395,2023-12-23,Consumer,Chennai,South,Email
+CUST00396,Customer 00396,2024-08-09,Corporate,Hyderabad,South,Social Media
+CUST00397,Customer 00397,2022-10-04,Consumer,Hyderabad,South,Email
+CUST00398,Customer 00398,2022-03-17,Consumer,Ahmedabad,West,Organic Search
+CUST00399,Customer 00399,2022-03-27,Consumer,Mumbai,West,Paid Search
+CUST00400,Customer 00400,2025-01-17,Consumer,Kolkata,East,Organic Search
+CUST00401,Customer 00401,2023-08-09,Consumer,Mumbai,West,Email
+CUST00402,Customer 00402,2023-07-14,Consumer,Delhi,North,Paid Search
+CUST00403,Customer 00403,2024-06-19,Small Business,Kolkata,East,Paid Search
+CUST00404,Customer 00404,2024-10-13,Consumer,Hyderabad,South,Paid Search
+CUST00405,Customer 00405,2023-07-01,Small Business,Coimbatore,South,Email
+CUST00406,Customer 00406,2024-05-31,Consumer,Bengaluru,South,Email
+CUST00407,Customer 00407,2023-08-25,Consumer,Coimbatore,South,Organic Search
+CUST00408,Customer 00408,2023-09-20,Consumer,Pune,West,Referral
+CUST00409,Customer 00409,2024-06-28,Consumer,Hyderabad,South,Organic Search
+CUST00410,Customer 00410,2024-06-09,Consumer,Delhi,North,Direct
+CUST00411,Customer 00411,2022-06-03,Consumer,Chennai,South,Paid Search
+CUST00412,Customer 00412,2022-11-24,Corporate,Coimbatore,South,Organic Search
+CUST00413,Customer 00413,2024-06-16,Consumer,Jaipur,North,Organic Search
+CUST00414,Customer 00414,2024-01-12,Consumer,Delhi,North,Social Media
+CUST00415,Customer 00415,2022-11-11,Consumer,Jaipur,North,Direct
+CUST00416,Customer 00416,2024-06-28,Small Business,Delhi,North,Social Media
+CUST00417,Customer 00417,2024-01-22,Consumer,Coimbatore,South,Referral
+CUST00418,Customer 00418,2022-08-21,Consumer,Mumbai,West,Organic Search
+CUST00419,Customer 00419,2024-03-03,Small Business,Coimbatore,South,Organic Search
+CUST00420,Customer 00420,2024-07-02,Consumer,Pune,West,Referral
+CUST00421,Customer 00421,2023-02-14,Consumer,Ahmedabad,West,Direct
+CUST00422,Customer 00422,2022-12-20,Small Business,Ahmedabad,West,Paid Search
+CUST00423,Customer 00423,2023-10-17,Consumer,Bengaluru,South,Referral
+CUST00424,Customer 00424,2025-01-15,Consumer,Coimbatore,South,Paid Search
+CUST00425,Customer 00425,2022-12-23,Small Business,Hyderabad,South,Social Media
+CUST00426,Customer 00426,2023-02-16,Small Business,Bengaluru,South,Organic Search
+CUST00427,Customer 00427,2022-02-23,Consumer,Ahmedabad,West,Social Media
+CUST00428,Customer 00428,2025-02-03,Consumer,Ahmedabad,West,Direct
+CUST00429,Customer 00429,2023-09-26,Consumer,Bengaluru,South,Referral
+CUST00430,Customer 00430,2024-12-12,Consumer,Ahmedabad,West,Paid Search
+CUST00431,Customer 00431,2022-06-01,Consumer,Jaipur,North,Paid Search
+CUST00432,Customer 00432,2024-07-10,Consumer,Bengaluru,South,Social Media
+CUST00433,Customer 00433,2025-02-03,Consumer,Hyderabad,South,Organic Search
+CUST00434,Customer 00434,2024-06-05,Consumer,Hyderabad,South,Direct
+CUST00435,Customer 00435,2024-11-27,Consumer,Bengaluru,South,Organic Search
+CUST00436,Customer 00436,2023-04-07,Consumer,Delhi,North,Direct
+CUST00437,Customer 00437,2022-06-11,Consumer,Pune,West,Referral
+CUST00438,Customer 00438,2023-07-17,Consumer,Coimbatore,South,Paid Search
+CUST00439,Customer 00439,2022-07-11,Consumer,Coimbatore,South,Organic Search
+CUST00440,Customer 00440,2022-11-12,Consumer,Jaipur,North,Referral
+CUST00441,Customer 00441,2023-11-23,Small Business,Jaipur,North,Social Media
+CUST00442,Customer 00442,2022-06-16,Consumer,Chennai,South,Referral
+CUST00443,Customer 00443,2023-06-27,Consumer,Jaipur,North,Email
+CUST00444,Customer 00444,2022-03-04,Consumer,Kolkata,East,Referral
+CUST00445,Customer 00445,2023-09-11,Consumer,Pune,West,Email
+CUST00446,Customer 00446,2023-09-02,Consumer,Kolkata,East,Referral
+CUST00447,Customer 00447,2024-06-19,Consumer,Hyderabad,South,Social Media
+CUST00448,Customer 00448,2025-05-27,Consumer,Delhi,North,Direct
+CUST00449,Customer 00449,2023-12-09,Corporate,Delhi,North,Organic Search
+CUST00450,Customer 00450,2024-11-20,Consumer,Delhi,North,Paid Search
+CUST00451,Customer 00451,2022-09-08,Consumer,Ahmedabad,West,Organic Search
+CUST00452,Customer 00452,2022-04-14,Consumer,Bengaluru,South,Paid Search
+CUST00453,Customer 00453,2024-05-06,Consumer,Jaipur,North,Direct
+CUST00454,Customer 00454,2023-11-02,Corporate,Hyderabad,South,Email
+CUST00455,Customer 00455,2022-11-23,Consumer,Mumbai,West,Social Media
+CUST00456,Customer 00456,2023-09-24,Consumer,Ahmedabad,West,Organic Search
+CUST00457,Customer 00457,2024-11-01,Consumer,Kolkata,East,Organic Search
+CUST00458,Customer 00458,2023-12-24,Consumer,Jaipur,North,Paid Search
+CUST00459,Customer 00459,2024-08-21,Consumer,Jaipur,North,Organic Search
+CUST00460,Customer 00460,2024-06-01,Consumer,Bengaluru,South,Paid Search
+CUST00461,Customer 00461,2024-04-05,Consumer,Delhi,North,Paid Search
+CUST00462,Customer 00462,2025-02-24,Consumer,Jaipur,North,Social Media
+CUST00463,Customer 00463,2024-03-02,Consumer,Bengaluru,South,Email
+CUST00464,Customer 00464,2022-09-01,Consumer,Pune,West,Organic Search
+CUST00465,Customer 00465,2023-11-26,Consumer,Delhi,North,Paid Search
+CUST00466,Customer 00466,2023-02-12,Consumer,Hyderabad,South,Paid Search
+CUST00467,Customer 00467,2022-04-03,Consumer,Chennai,South,Referral
+CUST00468,Customer 00468,2024-11-29,Consumer,Ahmedabad,West,Referral
+CUST00469,Customer 00469,2022-10-14,Consumer,Coimbatore,South,Referral
+CUST00470,Customer 00470,2024-03-15,Corporate,Hyderabad,South,Email
+CUST00471,Customer 00471,2025-04-30,Consumer,Pune,West,Email
+CUST00472,Customer 00472,2024-09-30,Consumer,Coimbatore,South,Paid Search
+CUST00473,Customer 00473,2024-01-25,Consumer,Chennai,South,Organic Search
+CUST00474,Customer 00474,2025-04-10,Consumer,Kolkata,East,Direct
+CUST00475,Customer 00475,2025-05-07,Consumer,Chennai,South,Direct
+CUST00476,Customer 00476,2025-03-28,Consumer,Jaipur,North,Organic Search
+CUST00477,Customer 00477,2022-12-16,Consumer,Ahmedabad,West,Email
+CUST00478,Customer 00478,2022-10-30,Small Business,Kolkata,East,Organic Search
+CUST00479,Customer 00479,2022-08-14,Consumer,Jaipur,North,Paid Search
+CUST00480,Customer 00480,2022-11-07,Consumer,Kolkata,East,Organic Search
+CUST00481,Customer 00481,2024-08-23,Small Business,Coimbatore,South,Email
+CUST00482,Customer 00482,2022-10-10,Consumer,Chennai,South,Social Media
+CUST00483,Customer 00483,2024-12-12,Consumer,Ahmedabad,West,Direct
+CUST00484,Customer 00484,2024-12-27,Consumer,Ahmedabad,West,Paid Search
+CUST00485,Customer 00485,2025-06-03,Consumer,Pune,West,Direct
+CUST00486,Customer 00486,2025-02-16,Consumer,Pune,West,Direct
+CUST00487,Customer 00487,2023-08-15,Consumer,Pune,West,Referral
+CUST00488,Customer 00488,2023-10-12,Consumer,Ahmedabad,West,Social Media
+CUST00489,Customer 00489,2023-08-13,Consumer,Pune,West,Referral
+CUST00490,Customer 00490,2024-03-19,Small Business,Kolkata,East,Direct
+CUST00491,Customer 00491,2023-08-18,Consumer,Hyderabad,South,Direct
+CUST00492,Customer 00492,2023-12-11,Corporate,Bengaluru,South,Referral
+CUST00493,Customer 00493,2023-03-15,Consumer,Ahmedabad,West,Social Media
+CUST00494,Customer 00494,2023-07-11,Consumer,Coimbatore,South,Referral
+CUST00495,Customer 00495,2023-05-06,Consumer,Jaipur,North,Referral
+CUST00496,Customer 00496,2023-04-08,Consumer,Coimbatore,South,Organic Search
+CUST00497,Customer 00497,2023-11-08,Consumer,Kolkata,East,Organic Search
+CUST00498,Customer 00498,2022-01-11,Corporate,Hyderabad,South,Direct
+CUST00499,Customer 00499,2024-04-13,Consumer,Hyderabad,South,Direct
+CUST00500,Customer 00500,2024-09-04,Consumer,Ahmedabad,West,Email
+CUST00501,Customer 00501,2023-10-20,Consumer,Pune,West,Organic Search
+CUST00502,Customer 00502,2025-03-21,Consumer,Bengaluru,South,Email
+CUST00503,Customer 00503,2022-12-25,Consumer,Chennai,South,Email
+CUST00504,Customer 00504,2024-03-24,Small Business,Chennai,South,Organic Search
+CUST00505,Customer 00505,2022-03-18,Consumer,Pune,West,Social Media
+CUST00506,Customer 00506,2023-11-18,Consumer,Bengaluru,South,Direct
+CUST00507,Customer 00507,2024-12-09,Consumer,Coimbatore,South,Direct
+CUST00508,Customer 00508,2024-08-16,Consumer,Coimbatore,South,Email
+CUST00509,Customer 00509,2022-11-29,Small Business,Delhi,North,Referral
+CUST00510,Customer 00510,2022-01-29,Small Business,Hyderabad,South,Email
+CUST00511,Customer 00511,2023-01-31,Consumer,Jaipur,North,Direct
+CUST00512,Customer 00512,2024-05-25,Consumer,Kolkata,East,Organic Search
+CUST00513,Customer 00513,2023-01-14,Corporate,Bengaluru,South,Social Media
+CUST00514,Customer 00514,2022-01-14,Consumer,Mumbai,West,Organic Search
+CUST00515,Customer 00515,2023-11-07,Consumer,Pune,West,Email
+CUST00516,Customer 00516,2023-06-20,Consumer,Chennai,South,Referral
+CUST00517,Customer 00517,2022-08-31,Consumer,Chennai,South,Organic Search
+CUST00518,Customer 00518,2023-09-29,Consumer,Coimbatore,South,Referral
+CUST00519,Customer 00519,2024-01-23,Consumer,Pune,West,Organic Search
+CUST00520,Customer 00520,2024-09-06,Consumer,Hyderabad,South,Email
+CUST00521,Customer 00521,2024-02-05,Consumer,Jaipur,North,Social Media
+CUST00522,Customer 00522,2025-01-05,Small Business,Ahmedabad,West,Email
+CUST00523,Customer 00523,2025-05-05,Small Business,Mumbai,West,Organic Search
+CUST00524,Customer 00524,2024-12-17,Consumer,Ahmedabad,West,Organic Search
+CUST00525,Customer 00525,2022-08-18,Consumer,Jaipur,North,Social Media
+CUST00526,Customer 00526,2023-02-19,Consumer,Coimbatore,South,Organic Search
+CUST00527,Customer 00527,2024-12-01,Consumer,Delhi,North,Referral
+CUST00528,Customer 00528,2024-09-28,Consumer,Jaipur,North,Social Media
+CUST00529,Customer 00529,2024-07-17,Consumer,Chennai,South,Paid Search
+CUST00530,Customer 00530,2022-04-29,Consumer,Jaipur,North,Referral
+CUST00531,Customer 00531,2022-02-14,Consumer,Pune,West,Email
+CUST00532,Customer 00532,2025-03-30,Consumer,Mumbai,West,Paid Search
+CUST00533,Customer 00533,2025-01-13,Corporate,Bengaluru,South,Direct
+CUST00534,Customer 00534,2024-08-24,Consumer,Bengaluru,South,Paid Search
+CUST00535,Customer 00535,2024-05-10,Consumer,Hyderabad,South,Direct
+CUST00536,Customer 00536,2024-02-13,Consumer,Ahmedabad,West,Referral
+CUST00537,Customer 00537,2022-09-30,Consumer,Coimbatore,South,Paid Search
+CUST00538,Customer 00538,2025-01-05,Consumer,Hyderabad,South,Organic Search
+CUST00539,Customer 00539,2022-01-08,Small Business,Mumbai,West,Direct
+CUST00540,Customer 00540,2025-01-20,Consumer,Ahmedabad,West,Paid Search
+CUST00541,Customer 00541,2023-05-22,Consumer,Mumbai,West,Organic Search
+CUST00542,Customer 00542,2022-08-20,Consumer,Mumbai,West,Referral
+CUST00543,Customer 00543,2022-02-02,Consumer,Jaipur,North,Organic Search
+CUST00544,Customer 00544,2022-03-10,Consumer,Jaipur,North,Referral
+CUST00545,Customer 00545,2023-05-17,Small Business,Chennai,South,Paid Search
+CUST00546,Customer 00546,2025-01-10,Consumer,Mumbai,West,Direct
+CUST00547,Customer 00547,2022-10-14,Consumer,Chennai,South,Paid Search
+CUST00548,Customer 00548,2023-10-16,Consumer,Jaipur,North,Email
+CUST00549,Customer 00549,2023-05-01,Consumer,Delhi,North,Organic Search
+CUST00550,Customer 00550,2023-03-29,Consumer,Coimbatore,South,Paid Search
+CUST00551,Customer 00551,2025-04-26,Small Business,Coimbatore,South,Direct
+CUST00552,Customer 00552,2025-02-12,Consumer,Kolkata,East,Direct
+CUST00553,Customer 00553,2024-12-10,Consumer,Kolkata,East,Paid Search
+CUST00554,Customer 00554,2023-09-07,Consumer,Hyderabad,South,Email
+CUST00555,Customer 00555,2023-05-09,Small Business,Ahmedabad,West,Paid Search
+CUST00556,Customer 00556,2024-08-06,Small Business,Hyderabad,South,Social Media
+CUST00557,Customer 00557,2025-02-15,Consumer,Kolkata,East,Paid Search
+CUST00558,Customer 00558,2023-02-21,Consumer,Pune,West,Organic Search
+CUST00559,Customer 00559,2024-01-30,Consumer,Ahmedabad,West,Email
+CUST00560,Customer 00560,2022-04-16,Consumer,Mumbai,West,Referral
+CUST00561,Customer 00561,2022-03-22,Small Business,Jaipur,North,Organic Search
+CUST00562,Customer 00562,2025-02-18,Consumer,Jaipur,North,Organic Search
+CUST00563,Customer 00563,2023-09-13,Corporate,Delhi,North,Organic Search
+CUST00564,Customer 00564,2022-08-29,Small Business,Mumbai,West,Email
+CUST00565,Customer 00565,2025-05-22,Consumer,Mumbai,West,Paid Search
+CUST00566,Customer 00566,2025-02-04,Consumer,Mumbai,West,Paid Search
+CUST00567,Customer 00567,2024-12-28,Consumer,Ahmedabad,West,Paid Search
+CUST00568,Customer 00568,2024-11-16,Small Business,Delhi,North,Social Media
+CUST00569,Customer 00569,2023-10-18,Small Business,Ahmedabad,West,Paid Search
+CUST00570,Customer 00570,2022-04-04,Consumer,Kolkata,East,Organic Search
+CUST00571,Customer 00571,2022-02-03,Consumer,Hyderabad,South,Direct
+CUST00572,Customer 00572,2024-05-05,Consumer,Jaipur,North,Organic Search
+CUST00573,Customer 00573,2024-02-17,Consumer,Mumbai,West,Organic Search
+CUST00574,Customer 00574,2023-11-23,Consumer,Coimbatore,South,Email
+CUST00575,Customer 00575,2024-08-01,Consumer,Ahmedabad,West,Email
+CUST00576,Customer 00576,2022-10-14,Small Business,Hyderabad,South,Social Media
+CUST00577,Customer 00577,2022-05-01,Consumer,Coimbatore,South,Email
+CUST00578,Customer 00578,2022-04-10,Small Business,Bengaluru,South,Paid Search
+CUST00579,Customer 00579,2022-05-20,Consumer,Mumbai,West,Organic Search
+CUST00580,Customer 00580,2024-07-22,Consumer,Coimbatore,South,Referral
+CUST00581,Customer 00581,2024-09-16,Consumer,Jaipur,North,Organic Search
+CUST00582,Customer 00582,2025-02-03,Consumer,Coimbatore,South,Organic Search
+CUST00583,Customer 00583,2025-01-02,Corporate,Pune,West,Organic Search
+CUST00584,Customer 00584,2023-01-03,Consumer,Kolkata,East,Organic Search
+CUST00585,Customer 00585,2023-05-09,Consumer,Hyderabad,South,Social Media
+CUST00586,Customer 00586,2023-07-02,Small Business,Delhi,North,Organic Search
+CUST00587,Customer 00587,2024-07-29,Consumer,Kolkata,East,Direct
+CUST00588,Customer 00588,2023-09-07,Consumer,Mumbai,West,Email
+CUST00589,Customer 00589,2022-07-11,Consumer,Chennai,South,Paid Search
+CUST00590,Customer 00590,2022-04-25,Consumer,Ahmedabad,West,Referral
+CUST00591,Customer 00591,2024-10-20,Small Business,Bengaluru,South,Referral
+CUST00592,Customer 00592,2025-03-04,Corporate,Delhi,North,Direct
+CUST00593,Customer 00593,2022-03-29,Consumer,Coimbatore,South,Direct
+CUST00594,Customer 00594,2024-08-31,Consumer,Jaipur,North,Direct
+CUST00595,Customer 00595,2025-01-17,Consumer,Pune,West,Organic Search
+CUST00596,Customer 00596,2022-02-02,Corporate,Delhi,North,Social Media
+CUST00597,Customer 00597,2022-06-07,Consumer,Kolkata,East,Social Media
+CUST00598,Customer 00598,2024-03-07,Consumer,Jaipur,North,Social Media
+CUST00599,Customer 00599,2022-10-14,Small Business,Kolkata,East,Referral
+CUST00600,Customer 00600,2024-10-22,Small Business,Bengaluru,South,Paid Search
+CUST00601,Customer 00601,2024-06-14,Consumer,Bengaluru,South,Organic Search
+CUST00602,Customer 00602,2025-05-04,Consumer,Jaipur,North,Email
+CUST00603,Customer 00603,2023-07-14,Small Business,Chennai,South,Social Media
+CUST00604,Customer 00604,2023-12-30,Consumer,Mumbai,West,Paid Search
+CUST00605,Customer 00605,2025-04-14,Consumer,Hyderabad,South,Organic Search
+CUST00606,Customer 00606,2023-08-28,Small Business,Jaipur,North,Referral
+CUST00607,Customer 00607,2023-07-03,Consumer,Bengaluru,South,Referral
+CUST00608,Customer 00608,2024-03-08,Consumer,Hyderabad,South,Organic Search
+CUST00609,Customer 00609,2023-09-24,Consumer,Chennai,South,Email
+CUST00610,Customer 00610,2022-09-29,Consumer,Bengaluru,South,Paid Search
+CUST00611,Customer 00611,2025-02-10,Consumer,Coimbatore,South,Organic Search
+CUST00612,Customer 00612,2023-12-26,Consumer,Bengaluru,South,Social Media
+CUST00613,Customer 00613,2024-02-28,Consumer,Delhi,North,Paid Search
+CUST00614,Customer 00614,2025-02-19,Small Business,Bengaluru,South,Direct
+CUST00615,Customer 00615,2024-12-03,Consumer,Jaipur,North,Paid Search
+CUST00616,Customer 00616,2023-07-05,Consumer,Hyderabad,South,Social Media
+CUST00617,Customer 00617,2022-12-09,Consumer,Bengaluru,South,Paid Search
+CUST00618,Customer 00618,2022-06-07,Consumer,Ahmedabad,West,Direct
+CUST00619,Customer 00619,2025-05-01,Consumer,Ahmedabad,West,Social Media
+CUST00620,Customer 00620,2023-09-16,Consumer,Hyderabad,South,Paid Search
+CUST00621,Customer 00621,2024-02-18,Small Business,Jaipur,North,Paid Search
+CUST00622,Customer 00622,2024-05-31,Small Business,Delhi,North,Direct
+CUST00623,Customer 00623,2022-10-06,Consumer,Jaipur,North,Referral
+CUST00624,Customer 00624,2024-09-08,Consumer,Mumbai,West,Direct
+CUST00625,Customer 00625,2023-08-20,Small Business,Delhi,North,Referral
+CUST00626,Customer 00626,2023-05-12,Consumer,Jaipur,North,Paid Search
+CUST00627,Customer 00627,2024-01-18,Consumer,Kolkata,East,Social Media
+CUST00628,Customer 00628,2025-01-22,Consumer,Jaipur,North,Email
+CUST00629,Customer 00629,2024-08-03,Corporate,Chennai,South,Organic Search
+CUST00630,Customer 00630,2022-05-22,Small Business,Pune,West,Email
+CUST00631,Customer 00631,2024-10-19,Consumer,Kolkata,East,Paid Search
+CUST00632,Customer 00632,2022-11-12,Consumer,Pune,West,Email
+CUST00633,Customer 00633,2024-07-08,Corporate,Bengaluru,South,Social Media
+CUST00634,Customer 00634,2024-12-30,Consumer,Kolkata,East,Direct
+CUST00635,Customer 00635,2025-01-18,Consumer,Kolkata,East,Direct
+CUST00636,Customer 00636,2025-05-01,Consumer,Coimbatore,South,Organic Search
+CUST00637,Customer 00637,2023-12-29,Consumer,Mumbai,West,Referral
+CUST00638,Customer 00638,2024-03-29,Corporate,Jaipur,North,Paid Search
+CUST00639,Customer 00639,2022-08-05,Consumer,Kolkata,East,Paid Search
+CUST00640,Customer 00640,2024-11-28,Consumer,Coimbatore,South,Referral
+CUST00641,Customer 00641,2024-07-01,Consumer,Mumbai,West,Social Media
+CUST00642,Customer 00642,2024-10-21,Consumer,Jaipur,North,Direct
+CUST00643,Customer 00643,2022-08-03,Consumer,Ahmedabad,West,Direct
+CUST00644,Customer 00644,2022-08-26,Small Business,Bengaluru,South,Email
+CUST00645,Customer 00645,2023-10-01,Consumer,Delhi,North,Email
+CUST00646,Customer 00646,2024-09-16,Consumer,Coimbatore,South,Organic Search
+CUST00647,Customer 00647,2023-10-16,Consumer,Ahmedabad,West,Organic Search
+CUST00648,Customer 00648,2022-02-16,Small Business,Bengaluru,South,Referral
+CUST00649,Customer 00649,2023-05-15,Consumer,Hyderabad,South,Social Media
+CUST00650,Customer 00650,2025-02-20,Consumer,Delhi,North,Social Media
+CUST00651,Customer 00651,2023-01-13,Consumer,Kolkata,East,Referral
+CUST00652,Customer 00652,2022-03-01,Small Business,Kolkata,East,Direct
+CUST00653,Customer 00653,2025-04-27,Consumer,Ahmedabad,West,Organic Search
+CUST00654,Customer 00654,2023-02-26,Consumer,Mumbai,West,Referral
+CUST00655,Customer 00655,2025-03-28,Consumer,Bengaluru,South,Direct
+CUST00656,Customer 00656,2024-01-20,Consumer,Hyderabad,South,Social Media
+CUST00657,Customer 00657,2024-09-29,Consumer,Pune,West,Referral
+CUST00658,Customer 00658,2024-03-06,Consumer,Jaipur,North,Social Media
+CUST00659,Customer 00659,2023-12-22,Small Business,Delhi,North,Referral
+CUST00660,Customer 00660,2025-04-23,Consumer,Pune,West,Organic Search
+CUST00661,Customer 00661,2023-05-04,Consumer,Bengaluru,South,Organic Search
+CUST00662,Customer 00662,2024-11-12,Consumer,Hyderabad,South,Social Media
+CUST00663,Customer 00663,2024-02-25,Consumer,Jaipur,North,Social Media
+CUST00664,Customer 00664,2022-12-21,Consumer,Coimbatore,South,Social Media
+CUST00665,Customer 00665,2023-01-19,Consumer,Hyderabad,South,Social Media
+CUST00666,Customer 00666,2024-01-06,Corporate,Chennai,South,Social Media
+CUST00667,Customer 00667,2024-02-26,Corporate,Mumbai,West,Social Media
+CUST00668,Customer 00668,2024-04-17,Consumer,Ahmedabad,West,Paid Search
+CUST00669,Customer 00669,2024-09-27,Consumer,Ahmedabad,West,Social Media
+CUST00670,Customer 00670,2023-08-22,Consumer,Mumbai,West,Organic Search
+CUST00671,Customer 00671,2022-12-11,Small Business,Pune,West,Social Media
+CUST00672,Customer 00672,2025-01-30,Consumer,Ahmedabad,West,Social Media
+CUST00673,Customer 00673,2025-01-17,Small Business,Pune,West,Paid Search
+CUST00674,Customer 00674,2024-06-22,Consumer,Chennai,South,Direct
+CUST00675,Customer 00675,2023-05-22,Consumer,Bengaluru,South,Direct
+CUST00676,Customer 00676,2023-06-23,Consumer,Ahmedabad,West,Email
+CUST00677,Customer 00677,2022-08-29,Small Business,Ahmedabad,West,Organic Search
+CUST00678,Customer 00678,2023-12-20,Small Business,Jaipur,North,Referral
+CUST00679,Customer 00679,2022-12-06,Consumer,Kolkata,East,Email
+CUST00680,Customer 00680,2022-05-02,Consumer,Mumbai,West,Social Media
+CUST00681,Customer 00681,2025-01-08,Consumer,Jaipur,North,Direct
+CUST00682,Customer 00682,2023-08-16,Consumer,Pune,West,Direct
+CUST00683,Customer 00683,2022-07-15,Consumer,Coimbatore,South,Email
+CUST00684,Customer 00684,2022-05-02,Corporate,Kolkata,East,Direct
+CUST00685,Customer 00685,2022-09-29,Consumer,Hyderabad,South,Referral
+CUST00686,Customer 00686,2024-03-15,Consumer,Mumbai,West,Social Media
+CUST00687,Customer 00687,2024-04-28,Consumer,Pune,West,Organic Search
+CUST00688,Customer 00688,2024-04-05,Consumer,Bengaluru,South,Paid Search
+CUST00689,Customer 00689,2024-07-20,Corporate,Delhi,North,Paid Search
+CUST00690,Customer 00690,2022-07-10,Small Business,Chennai,South,Social Media
+CUST00691,Customer 00691,2022-05-10,Small Business,Delhi,North,Paid Search
+CUST00692,Customer 00692,2023-03-10,Consumer,Kolkata,East,Paid Search
+CUST00693,Customer 00693,2023-11-23,Consumer,Pune,West,Organic Search
+CUST00694,Customer 00694,2023-12-05,Small Business,Ahmedabad,West,Email
+CUST00695,Customer 00695,2022-07-23,Consumer,Chennai,South,Email
+CUST00696,Customer 00696,2022-09-12,Corporate,Chennai,South,Organic Search
+CUST00697,Customer 00697,2022-01-02,Corporate,Ahmedabad,West,Paid Search
+CUST00698,Customer 00698,2023-09-11,Consumer,Hyderabad,South,Direct
+CUST00699,Customer 00699,2022-07-11,Consumer,Pune,West,Paid Search
+CUST00700,Customer 00700,2022-12-05,Consumer,Delhi,North,Referral
+CUST00701,Customer 00701,2024-05-29,Consumer,Mumbai,West,Referral
+CUST00702,Customer 00702,2023-03-14,Consumer,Chennai,South,Organic Search
+CUST00703,Customer 00703,2024-11-29,Consumer,Mumbai,West,Organic Search
+CUST00704,Customer 00704,2022-09-04,Corporate,Delhi,North,Paid Search
+CUST00705,Customer 00705,2024-09-05,Consumer,Hyderabad,South,Paid Search
+CUST00706,Customer 00706,2022-07-31,Consumer,Bengaluru,South,Direct
+CUST00707,Customer 00707,2024-02-23,Small Business,Hyderabad,South,Email
+CUST00708,Customer 00708,2022-10-20,Consumer,Hyderabad,South,Social Media
+CUST00709,Customer 00709,2022-12-03,Consumer,Jaipur,North,Email
+CUST00710,Customer 00710,2024-04-23,Consumer,Hyderabad,South,Paid Search
+CUST00711,Customer 00711,2022-06-27,Small Business,Mumbai,West,Organic Search
+CUST00712,Customer 00712,2025-04-22,Small Business,Bengaluru,South,Paid Search
+CUST00713,Customer 00713,2023-10-07,Small Business,Kolkata,East,Organic Search
+CUST00714,Customer 00714,2023-05-24,Consumer,Bengaluru,South,Referral
+CUST00715,Customer 00715,2023-08-07,Small Business,Jaipur,North,Referral
+CUST00716,Customer 00716,2023-02-25,Consumer,Pune,West,Social Media
+CUST00717,Customer 00717,2023-08-29,Consumer,Kolkata,East,Email
+CUST00718,Customer 00718,2024-10-10,Consumer,Mumbai,West,Organic Search
+CUST00719,Customer 00719,2022-05-26,Consumer,Jaipur,North,Direct
+CUST00720,Customer 00720,2023-10-11,Consumer,Delhi,North,Direct
+CUST00721,Customer 00721,2024-05-11,Consumer,Jaipur,North,Referral
+CUST00722,Customer 00722,2022-05-30,Consumer,Ahmedabad,West,Organic Search
+CUST00723,Customer 00723,2023-03-18,Consumer,Pune,West,Organic Search
+CUST00724,Customer 00724,2024-11-03,Consumer,Kolkata,East,Referral
+CUST00725,Customer 00725,2024-05-17,Consumer,Kolkata,East,Organic Search
+CUST00726,Customer 00726,2025-01-06,Consumer,Coimbatore,South,Paid Search
+CUST00727,Customer 00727,2022-06-11,Consumer,Pune,West,Organic Search
+CUST00728,Customer 00728,2025-01-03,Consumer,Hyderabad,South,Social Media
+CUST00729,Customer 00729,2023-09-28,Consumer,Bengaluru,South,Email
+CUST00730,Customer 00730,2022-04-29,Consumer,Mumbai,West,Direct
+CUST00731,Customer 00731,2024-07-17,Consumer,Bengaluru,South,Organic Search
+CUST00732,Customer 00732,2022-09-02,Consumer,Hyderabad,South,Organic Search
+CUST00733,Customer 00733,2022-12-02,Consumer,Chennai,South,Paid Search
+CUST00734,Customer 00734,2023-06-15,Consumer,Coimbatore,South,Organic Search
+CUST00735,Customer 00735,2022-08-30,Small Business,Pune,West,Organic Search
+CUST00736,Customer 00736,2023-07-12,Consumer,Kolkata,East,Paid Search
+CUST00737,Customer 00737,2022-06-07,Consumer,Jaipur,North,Social Media
+CUST00738,Customer 00738,2024-10-20,Small Business,Chennai,South,Organic Search
+CUST00739,Customer 00739,2023-06-07,Small Business,Hyderabad,South,Direct
+CUST00740,Customer 00740,2023-04-13,Small Business,Bengaluru,South,Organic Search
+CUST00741,Customer 00741,2023-05-16,Consumer,Chennai,South,Paid Search
+CUST00742,Customer 00742,2023-01-02,Corporate,Hyderabad,South,Direct
+CUST00743,Customer 00743,2024-05-08,Consumer,Coimbatore,South,Organic Search
+CUST00744,Customer 00744,2023-07-10,Small Business,Delhi,North,Social Media
+CUST00745,Customer 00745,2024-10-25,Consumer,Bengaluru,South,Organic Search
+CUST00746,Customer 00746,2024-11-22,Corporate,Mumbai,West,Direct
+CUST00747,Customer 00747,2024-08-10,Small Business,Bengaluru,South,Email
+CUST00748,Customer 00748,2023-11-02,Consumer,Pune,West,Social Media
+CUST00749,Customer 00749,2023-02-15,Consumer,Delhi,North,Email
+CUST00750,Customer 00750,2023-05-12,Consumer,Jaipur,North,Social Media
+CUST00751,Customer 00751,2023-02-05,Small Business,Ahmedabad,West,Social Media
+CUST00752,Customer 00752,2022-11-05,Consumer,Mumbai,West,Paid Search
+CUST00753,Customer 00753,2025-01-14,Consumer,Mumbai,West,Email
+CUST00754,Customer 00754,2023-11-18,Consumer,Chennai,South,Referral
+CUST00755,Customer 00755,2022-08-01,Consumer,Pune,West,Direct
+CUST00756,Customer 00756,2024-10-04,Corporate,Kolkata,East,Direct
+CUST00757,Customer 00757,2023-07-28,Consumer,Hyderabad,South,Direct
+CUST00758,Customer 00758,2024-04-25,Consumer,Coimbatore,South,Paid Search
+CUST00759,Customer 00759,2025-04-04,Consumer,Bengaluru,South,Organic Search
+CUST00760,Customer 00760,2022-06-03,Consumer,Kolkata,East,Organic Search
+CUST00761,Customer 00761,2023-04-30,Consumer,Hyderabad,South,Direct
+CUST00762,Customer 00762,2023-10-31,Consumer,Kolkata,East,Paid Search
+CUST00763,Customer 00763,2023-02-20,Consumer,Bengaluru,South,Email
+CUST00764,Customer 00764,2022-11-15,Consumer,Bengaluru,South,Paid Search
+CUST00765,Customer 00765,2024-04-12,Consumer,Delhi,North,Paid Search
+CUST00766,Customer 00766,2024-07-14,Consumer,Mumbai,West,Paid Search
+CUST00767,Customer 00767,2022-07-05,Consumer,Bengaluru,South,Referral
+CUST00768,Customer 00768,2022-03-24,Consumer,Jaipur,North,Direct
+CUST00769,Customer 00769,2022-07-06,Consumer,Hyderabad,South,Direct
+CUST00770,Customer 00770,2024-11-17,Consumer,Kolkata,East,Paid Search
+CUST00771,Customer 00771,2022-03-05,Corporate,Hyderabad,South,Direct
+CUST00772,Customer 00772,2025-01-31,Consumer,Coimbatore,South,Social Media
+CUST00773,Customer 00773,2022-09-06,Consumer,Hyderabad,South,Email
+CUST00774,Customer 00774,2022-09-25,Consumer,Mumbai,West,Paid Search
+CUST00775,Customer 00775,2025-04-07,Consumer,Bengaluru,South,Direct
+CUST00776,Customer 00776,2022-02-14,Corporate,Bengaluru,South,Organic Search
+CUST00777,Customer 00777,2022-09-21,Consumer,Ahmedabad,West,Email
+CUST00778,Customer 00778,2022-09-08,Consumer,Delhi,North,Social Media
+CUST00779,Customer 00779,2025-03-21,Consumer,Hyderabad,South,Email
+CUST00780,Customer 00780,2022-03-02,Consumer,Ahmedabad,West,Paid Search
+CUST00781,Customer 00781,2023-03-16,Small Business,Delhi,North,Paid Search
+CUST00782,Customer 00782,2022-11-01,Consumer,Ahmedabad,West,Referral
+CUST00783,Customer 00783,2023-08-28,Consumer,Mumbai,West,Direct
+CUST00784,Customer 00784,2022-05-05,Consumer,Ahmedabad,West,Paid Search
+CUST00785,Customer 00785,2023-02-13,Consumer,Kolkata,East,Email
+CUST00786,Customer 00786,2025-01-18,Small Business,Mumbai,West,Direct
+CUST00787,Customer 00787,2024-09-09,Consumer,Delhi,North,Social Media
+CUST00788,Customer 00788,2024-10-25,Consumer,Jaipur,North,Paid Search
+CUST00789,Customer 00789,2023-10-16,Consumer,Chennai,South,Organic Search
+CUST00790,Customer 00790,2022-04-30,Small Business,Pune,West,Social Media
+CUST00791,Customer 00791,2025-04-11,Corporate,Delhi,North,Direct
+CUST00792,Customer 00792,2023-05-23,Consumer,Bengaluru,South,Paid Search
+CUST00793,Customer 00793,2023-03-26,Consumer,Chennai,South,Direct
+CUST00794,Customer 00794,2023-12-28,Corporate,Kolkata,East,Direct
+CUST00795,Customer 00795,2022-12-27,Consumer,Hyderabad,South,Paid Search
+CUST00796,Customer 00796,2025-04-26,Consumer,Delhi,North,Referral
+CUST00797,Customer 00797,2025-02-28,Consumer,Jaipur,North,Direct
+CUST00798,Customer 00798,2025-01-15,Consumer,Ahmedabad,West,Social Media
+CUST00799,Customer 00799,2022-04-26,Consumer,Bengaluru,South,Organic Search
+CUST00800,Customer 00800,2024-09-05,Consumer,Coimbatore,South,Direct
+CUST00801,Customer 00801,2022-09-25,Consumer,Mumbai,West,Organic Search
+CUST00802,Customer 00802,2022-05-02,Consumer,Delhi,North,Social Media
+CUST00803,Customer 00803,2022-08-16,Small Business,Hyderabad,South,Direct
+CUST00804,Customer 00804,2024-02-05,Consumer,Bengaluru,South,Referral
+CUST00805,Customer 00805,2022-07-26,Consumer,Jaipur,North,Paid Search
+CUST00806,Customer 00806,2024-06-13,Small Business,Hyderabad,South,Direct
+CUST00807,Customer 00807,2022-12-23,Consumer,Delhi,North,Social Media
+CUST00808,Customer 00808,2024-01-01,Consumer,Jaipur,North,Social Media
+CUST00809,Customer 00809,2024-02-14,Consumer,Hyderabad,South,Referral
+CUST00810,Customer 00810,2022-12-30,Small Business,Hyderabad,South,Direct
+CUST00811,Customer 00811,2024-03-12,Small Business,Jaipur,North,Email
+CUST00812,Customer 00812,2022-03-08,Consumer,Jaipur,North,Paid Search
+CUST00813,Customer 00813,2023-03-29,Consumer,Jaipur,North,Organic Search
+CUST00814,Customer 00814,2022-10-16,Consumer,Ahmedabad,West,Organic Search
+CUST00815,Customer 00815,2023-10-17,Consumer,Delhi,North,Direct
+CUST00816,Customer 00816,2023-11-19,Consumer,Bengaluru,South,Paid Search
+CUST00817,Customer 00817,2022-05-19,Consumer,Mumbai,West,Email
+CUST00818,Customer 00818,2022-04-09,Consumer,Chennai,South,Email
+CUST00819,Customer 00819,2024-04-27,Consumer,Hyderabad,South,Paid Search
+CUST00820,Customer 00820,2024-02-08,Consumer,Coimbatore,South,Social Media
+CUST00821,Customer 00821,2023-04-07,Consumer,Jaipur,North,Organic Search
+CUST00822,Customer 00822,2023-08-27,Consumer,Chennai,South,Paid Search
+CUST00823,Customer 00823,2022-06-01,Consumer,Bengaluru,South,Direct
+CUST00824,Customer 00824,2022-06-03,Consumer,Hyderabad,South,Direct
+CUST00825,Customer 00825,2023-11-24,Consumer,Bengaluru,South,Referral
+CUST00826,Customer 00826,2022-03-05,Consumer,Ahmedabad,West,Referral
+CUST00827,Customer 00827,2024-06-08,Consumer,Jaipur,North,Organic Search
+CUST00828,Customer 00828,2023-01-25,Consumer,Mumbai,West,Social Media
+CUST00829,Customer 00829,2023-06-28,Consumer,Coimbatore,South,Paid Search
+CUST00830,Customer 00830,2022-04-12,Consumer,Bengaluru,South,Social Media
+CUST00831,Customer 00831,2022-11-11,Consumer,Ahmedabad,West,Organic Search
+CUST00832,Customer 00832,2023-08-27,Small Business,Bengaluru,South,Referral
+CUST00833,Customer 00833,2023-02-13,Consumer,Ahmedabad,West,Organic Search
+CUST00834,Customer 00834,2022-06-17,Consumer,Pune,West,Organic Search
+CUST00835,Customer 00835,2024-08-22,Consumer,Kolkata,East,Referral
+CUST00836,Customer 00836,2025-01-19,Consumer,Bengaluru,South,Paid Search
+CUST00837,Customer 00837,2024-01-27,Consumer,Kolkata,East,Organic Search
+CUST00838,Customer 00838,2024-08-10,Consumer,Ahmedabad,West,Email
+CUST00839,Customer 00839,2022-05-07,Consumer,Jaipur,North,Referral
+CUST00840,Customer 00840,2022-06-25,Consumer,Bengaluru,South,Email
+CUST00841,Customer 00841,2025-04-22,Consumer,Kolkata,East,Organic Search
+CUST00842,Customer 00842,2024-12-06,Consumer,Kolkata,East,Social Media
+CUST00843,Customer 00843,2025-03-18,Small Business,Ahmedabad,West,Social Media
+CUST00844,Customer 00844,2024-03-19,Small Business,Bengaluru,South,Referral
+CUST00845,Customer 00845,2025-03-15,Small Business,Coimbatore,South,Email
+CUST00846,Customer 00846,2022-10-29,Consumer,Jaipur,North,Email
+CUST00847,Customer 00847,2022-12-09,Corporate,Hyderabad,South,Email
+CUST00848,Customer 00848,2022-03-29,Consumer,Hyderabad,South,Direct
+CUST00849,Customer 00849,2023-02-18,Corporate,Kolkata,East,Referral
+CUST00850,Customer 00850,2023-06-13,Consumer,Jaipur,North,Email
+CUST00851,Customer 00851,2022-06-28,Consumer,Bengaluru,South,Paid Search
+CUST00852,Customer 00852,2023-07-20,Consumer,Delhi,North,Direct
+CUST00853,Customer 00853,2025-04-18,Consumer,Chennai,South,Paid Search
+CUST00854,Customer 00854,2022-11-03,Consumer,Kolkata,East,Social Media
+CUST00855,Customer 00855,2022-08-05,Consumer,Bengaluru,South,Organic Search
+CUST00856,Customer 00856,2025-01-01,Small Business,Pune,West,Direct
+CUST00857,Customer 00857,2024-02-24,Consumer,Pune,West,Social Media
+CUST00858,Customer 00858,2022-03-18,Consumer,Ahmedabad,West,Paid Search
+CUST00859,Customer 00859,2025-05-31,Consumer,Jaipur,North,Paid Search
+CUST00860,Customer 00860,2023-11-10,Consumer,Kolkata,East,Organic Search
+CUST00861,Customer 00861,2023-07-05,Small Business,Ahmedabad,West,Organic Search
+CUST00862,Customer 00862,2023-09-29,Consumer,Pune,West,Social Media
+CUST00863,Customer 00863,2023-04-12,Consumer,Bengaluru,South,Direct
+CUST00864,Customer 00864,2023-10-20,Consumer,Ahmedabad,West,Paid Search
+CUST00865,Customer 00865,2023-01-20,Consumer,Bengaluru,South,Direct
+CUST00866,Customer 00866,2024-09-19,Small Business,Kolkata,East,Direct
+CUST00867,Customer 00867,2024-11-21,Small Business,Chennai,South,Organic Search
+CUST00868,Customer 00868,2024-04-06,Consumer,Coimbatore,South,Direct
+CUST00869,Customer 00869,2022-03-01,Consumer,Jaipur,North,Direct
+CUST00870,Customer 00870,2022-04-29,Consumer,Mumbai,West,Social Media
+CUST00871,Customer 00871,2023-02-12,Consumer,Delhi,North,Email
+CUST00872,Customer 00872,2024-03-23,Consumer,Coimbatore,South,Organic Search
+CUST00873,Customer 00873,2023-05-11,Consumer,Chennai,South,Social Media
+CUST00874,Customer 00874,2024-08-29,Consumer,Hyderabad,South,Paid Search
+CUST00875,Customer 00875,2023-06-14,Small Business,Hyderabad,South,Referral
+CUST00876,Customer 00876,2022-02-26,Consumer,Pune,West,Organic Search
+CUST00877,Customer 00877,2023-03-15,Small Business,Jaipur,North,Referral
+CUST00878,Customer 00878,2023-07-06,Consumer,Mumbai,West,Social Media
+CUST00879,Customer 00879,2024-08-28,Small Business,Chennai,South,Referral
+CUST00880,Customer 00880,2022-01-18,Consumer,Jaipur,North,Referral
+CUST00881,Customer 00881,2023-07-18,Consumer,Pune,West,Paid Search
+CUST00882,Customer 00882,2024-07-29,Consumer,Delhi,North,Social Media
+CUST00883,Customer 00883,2024-03-24,Consumer,Coimbatore,South,Organic Search
+CUST00884,Customer 00884,2025-02-23,Consumer,Delhi,North,Referral
+CUST00885,Customer 00885,2022-08-10,Consumer,Pune,West,Paid Search
+CUST00886,Customer 00886,2023-10-28,Small Business,Pune,West,Paid Search
+CUST00887,Customer 00887,2023-01-21,Consumer,Pune,West,Email
+CUST00888,Customer 00888,2025-05-13,Consumer,Chennai,South,Paid Search
+CUST00889,Customer 00889,2022-02-22,Consumer,Hyderabad,South,Direct
+CUST00890,Customer 00890,2024-05-07,Consumer,Pune,West,Email
+CUST00891,Customer 00891,2025-03-17,Small Business,Jaipur,North,Paid Search
+CUST00892,Customer 00892,2024-12-30,Consumer,Mumbai,West,Social Media
+CUST00893,Customer 00893,2024-11-04,Consumer,Delhi,North,Organic Search
+CUST00894,Customer 00894,2023-01-06,Consumer,Coimbatore,South,Social Media
+CUST00895,Customer 00895,2025-02-18,Small Business,Pune,West,Organic Search
+CUST00896,Customer 00896,2022-07-02,Consumer,Delhi,North,Organic Search
+CUST00897,Customer 00897,2024-05-11,Small Business,Pune,West,Paid Search
+CUST00898,Customer 00898,2025-04-14,Consumer,Pune,West,Direct
+CUST00899,Customer 00899,2022-04-20,Small Business,Ahmedabad,West,Social Media
+CUST00900,Customer 00900,2022-05-26,Consumer,Jaipur,North,Organic Search
+CUST00901,Customer 00901,2024-02-21,Consumer,Bengaluru,South,Paid Search
+CUST00902,Customer 00902,2022-10-09,Corporate,Hyderabad,South,Paid Search
+CUST00903,Customer 00903,2024-07-26,Consumer,Jaipur,North,Direct
+CUST00904,Customer 00904,2022-06-15,Consumer,Hyderabad,South,Referral
+CUST00905,Customer 00905,2023-10-04,Consumer,Hyderabad,South,Organic Search
+CUST00906,Customer 00906,2023-03-05,Small Business,Pune,West,Organic Search
+CUST00907,Customer 00907,2024-09-29,Small Business,Hyderabad,South,Email
+CUST00908,Customer 00908,2024-06-07,Consumer,Hyderabad,South,Paid Search
+CUST00909,Customer 00909,2024-02-25,Consumer,Ahmedabad,West,Social Media
+CUST00910,Customer 00910,2022-01-29,Small Business,Delhi,North,Email
+CUST00911,Customer 00911,2023-01-26,Consumer,Coimbatore,South,Organic Search
+CUST00912,Customer 00912,2023-04-09,Consumer,Mumbai,West,Paid Search
+CUST00913,Customer 00913,2022-07-30,Consumer,Hyderabad,South,Social Media
+CUST00914,Customer 00914,2022-05-14,Small Business,Hyderabad,South,Paid Search
+CUST00915,Customer 00915,2024-07-22,Small Business,Pune,West,Social Media
+CUST00916,Customer 00916,2024-06-07,Small Business,Delhi,North,Direct
+CUST00917,Customer 00917,2024-09-30,Consumer,Delhi,North,Organic Search
+CUST00918,Customer 00918,2022-02-09,Consumer,Kolkata,East,Email
+CUST00919,Customer 00919,2023-03-09,Small Business,Hyderabad,South,Social Media
+CUST00920,Customer 00920,2022-09-10,Consumer,Hyderabad,South,Referral
+CUST00921,Customer 00921,2024-02-08,Small Business,Chennai,South,Paid Search
+CUST00922,Customer 00922,2022-04-10,Consumer,Coimbatore,South,Organic Search
+CUST00923,Customer 00923,2022-02-10,Consumer,Bengaluru,South,Organic Search
+CUST00924,Customer 00924,2024-02-18,Consumer,Ahmedabad,West,Paid Search
+CUST00925,Customer 00925,2023-02-25,Consumer,Hyderabad,South,Referral
+CUST00926,Customer 00926,2024-05-11,Consumer,Pune,West,Referral
+CUST00927,Customer 00927,2025-05-25,Consumer,Pune,West,Paid Search
+CUST00928,Customer 00928,2024-11-13,Consumer,Bengaluru,South,Organic Search
+CUST00929,Customer 00929,2022-08-06,Consumer,Bengaluru,South,Referral
+CUST00930,Customer 00930,2024-12-07,Corporate,Pune,West,Paid Search
+CUST00931,Customer 00931,2023-08-28,Consumer,Kolkata,East,Social Media
+CUST00932,Customer 00932,2024-09-11,Consumer,Mumbai,West,Organic Search
+CUST00933,Customer 00933,2022-08-15,Small Business,Bengaluru,South,Referral
+CUST00934,Customer 00934,2022-07-04,Small Business,Hyderabad,South,Organic Search
+CUST00935,Customer 00935,2023-06-09,Consumer,Bengaluru,South,Social Media
+CUST00936,Customer 00936,2023-06-25,Consumer,Pune,West,Organic Search
+CUST00937,Customer 00937,2022-03-22,Small Business,Hyderabad,South,Paid Search
+CUST00938,Customer 00938,2024-05-22,Small Business,Delhi,North,Organic Search
+CUST00939,Customer 00939,2022-01-20,Small Business,Chennai,South,Referral
+CUST00940,Customer 00940,2023-11-05,Consumer,Hyderabad,South,Paid Search
+CUST00941,Customer 00941,2023-07-04,Small Business,Jaipur,North,Organic Search
+CUST00942,Customer 00942,2023-01-10,Consumer,Delhi,North,Paid Search
+CUST00943,Customer 00943,2023-07-11,Small Business,Ahmedabad,West,Referral
+CUST00944,Customer 00944,2024-05-13,Consumer,Ahmedabad,West,Email
+CUST00945,Customer 00945,2022-09-29,Consumer,Bengaluru,South,Organic Search
+CUST00946,Customer 00946,2022-08-01,Consumer,Hyderabad,South,Social Media
+CUST00947,Customer 00947,2024-06-16,Consumer,Jaipur,North,Paid Search
+CUST00948,Customer 00948,2022-03-01,Small Business,Delhi,North,Direct
+CUST00949,Customer 00949,2024-09-16,Corporate,Hyderabad,South,Organic Search
+CUST00950,Customer 00950,2024-06-21,Consumer,Kolkata,East,Paid Search
+CUST00951,Customer 00951,2022-01-26,Consumer,Delhi,North,Referral
+CUST00952,Customer 00952,2025-03-03,Consumer,Jaipur,North,Direct
+CUST00953,Customer 00953,2024-11-29,Consumer,Delhi,North,Referral
+CUST00954,Customer 00954,2024-06-05,Consumer,Bengaluru,South,Organic Search
+CUST00955,Customer 00955,2024-02-28,Consumer,Delhi,North,Email
+CUST00956,Customer 00956,2022-04-22,Consumer,Jaipur,North,Direct
+CUST00957,Customer 00957,2024-08-19,Small Business,Coimbatore,South,Direct
+CUST00958,Customer 00958,2024-10-03,Consumer,Bengaluru,South,Paid Search
+CUST00959,Customer 00959,2022-04-14,Consumer,Pune,West,Social Media
+CUST00960,Customer 00960,2024-04-05,Small Business,Kolkata,East,Organic Search
+CUST00961,Customer 00961,2025-03-19,Consumer,Ahmedabad,West,Direct
+CUST00962,Customer 00962,2023-10-10,Consumer,Ahmedabad,West,Social Media
+CUST00963,Customer 00963,2022-07-30,Consumer,Chennai,South,Organic Search
+CUST00964,Customer 00964,2022-01-01,Small Business,Coimbatore,South,Email
+CUST00965,Customer 00965,2023-09-16,Small Business,Jaipur,North,Social Media
+CUST00966,Customer 00966,2023-11-30,Consumer,Ahmedabad,West,Organic Search
+CUST00967,Customer 00967,2024-07-19,Consumer,Mumbai,West,Email
+CUST00968,Customer 00968,2024-08-26,Consumer,Jaipur,North,Paid Search
+CUST00969,Customer 00969,2022-08-22,Consumer,Ahmedabad,West,Referral
+CUST00970,Customer 00970,2023-12-01,Consumer,Chennai,South,Referral
+CUST00971,Customer 00971,2025-01-26,Consumer,Pune,West,Referral
+CUST00972,Customer 00972,2022-12-03,Consumer,Chennai,South,Email
+CUST00973,Customer 00973,2022-08-08,Consumer,Kolkata,East,Organic Search
+CUST00974,Customer 00974,2024-03-15,Consumer,Bengaluru,South,Email
+CUST00975,Customer 00975,2023-11-24,Consumer,Mumbai,West,Paid Search
+CUST00976,Customer 00976,2022-09-10,Small Business,Jaipur,North,Social Media
+CUST00977,Customer 00977,2024-10-29,Consumer,Jaipur,North,Social Media
+CUST00978,Customer 00978,2022-04-10,Consumer,Coimbatore,South,Paid Search
+CUST00979,Customer 00979,2024-09-16,Corporate,Jaipur,North,Email
+CUST00980,Customer 00980,2025-03-30,Consumer,Hyderabad,South,Email
+CUST00981,Customer 00981,2024-03-04,Consumer,Bengaluru,South,Referral
+CUST00982,Customer 00982,2024-10-29,Small Business,Delhi,North,Paid Search
+CUST00983,Customer 00983,2023-05-24,Consumer,Jaipur,North,Direct
+CUST00984,Customer 00984,2024-07-16,Small Business,Pune,West,Organic Search
+CUST00985,Customer 00985,2024-11-15,Consumer,Jaipur,North,Referral
+CUST00986,Customer 00986,2025-02-07,Consumer,Delhi,North,Organic Search
+CUST00987,Customer 00987,2023-08-19,Consumer,Jaipur,North,Direct
+CUST00988,Customer 00988,2022-12-31,Consumer,Hyderabad,South,Referral
+CUST00989,Customer 00989,2022-08-25,Small Business,Delhi,North,Social Media
+CUST00990,Customer 00990,2025-03-14,Corporate,Jaipur,North,Referral
+CUST00991,Customer 00991,2023-08-09,Small Business,Coimbatore,South,Paid Search
+CUST00992,Customer 00992,2024-12-06,Consumer,Chennai,South,Paid Search
+CUST00993,Customer 00993,2022-04-26,Consumer,Chennai,South,Email
+CUST00994,Customer 00994,2023-08-10,Consumer,Hyderabad,South,Organic Search
+CUST00995,Customer 00995,2023-08-28,Consumer,Chennai,South,Social Media
+CUST00996,Customer 00996,2024-07-15,Consumer,Delhi,North,Direct
+CUST00997,Customer 00997,2023-04-05,Small Business,Coimbatore,South,Social Media
+CUST00998,Customer 00998,2024-11-12,Small Business,Mumbai,West,Email
+CUST00999,Customer 00999,2022-04-07,Corporate,Pune,West,Paid Search
+CUST01000,Customer 01000,2025-02-04,Consumer,Delhi,North,Email
+CUST01001,Customer 01001,2024-06-26,Small Business,Mumbai,West,Direct
+CUST01002,Customer 01002,2025-04-20,Consumer,Delhi,North,Referral
+CUST01003,Customer 01003,2023-08-26,Consumer,Mumbai,West,Direct
+CUST01004,Customer 01004,2023-01-18,Corporate,Bengaluru,South,Email
+CUST01005,Customer 01005,2024-02-12,Consumer,Bengaluru,South,Paid Search
+CUST01006,Customer 01006,2022-09-24,Consumer,Pune,West,Email
+CUST01007,Customer 01007,2023-11-08,Consumer,Chennai,South,Direct
+CUST01008,Customer 01008,2022-11-11,Corporate,Chennai,South,Social Media
+CUST01009,Customer 01009,2023-09-09,Consumer,Jaipur,North,Social Media
+CUST01010,Customer 01010,2022-05-30,Small Business,Delhi,North,Paid Search
+CUST01011,Customer 01011,2023-01-12,Consumer,Mumbai,West,Email
+CUST01012,Customer 01012,2024-05-01,Consumer,Hyderabad,South,Paid Search
+CUST01013,Customer 01013,2023-03-30,Small Business,Delhi,North,Referral
+CUST01014,Customer 01014,2024-01-09,Consumer,Delhi,North,Direct
+CUST01015,Customer 01015,2024-12-22,Consumer,Jaipur,North,Social Media
+CUST01016,Customer 01016,2022-08-23,Consumer,Chennai,South,Paid Search
+CUST01017,Customer 01017,2023-05-15,Corporate,Jaipur,North,Referral
+CUST01018,Customer 01018,2024-02-21,Small Business,Delhi,North,Direct
+CUST01019,Customer 01019,2023-06-10,Consumer,Kolkata,East,Paid Search
+CUST01020,Customer 01020,2024-02-07,Consumer,Coimbatore,South,Social Media
+CUST01021,Customer 01021,2022-03-31,Consumer,Ahmedabad,West,Referral
+CUST01022,Customer 01022,2024-11-18,Consumer,Delhi,North,Organic Search
+CUST01023,Customer 01023,2024-12-28,Consumer,Coimbatore,South,Organic Search
+CUST01024,Customer 01024,2024-05-18,Small Business,Mumbai,West,Organic Search
+CUST01025,Customer 01025,2022-05-28,Small Business,Kolkata,East,Organic Search
+CUST01026,Customer 01026,2023-11-11,Consumer,Ahmedabad,West,Organic Search
+CUST01027,Customer 01027,2023-05-31,Consumer,Hyderabad,South,Social Media
+CUST01028,Customer 01028,2023-06-14,Consumer,Mumbai,West,Social Media
+CUST01029,Customer 01029,2024-06-05,Consumer,Kolkata,East,Paid Search
+CUST01030,Customer 01030,2024-12-31,Consumer,Bengaluru,South,Email
+CUST01031,Customer 01031,2025-04-14,Consumer,Bengaluru,South,Email
+CUST01032,Customer 01032,2024-10-26,Consumer,Delhi,North,Email
+CUST01033,Customer 01033,2025-05-27,Consumer,Pune,West,Email
+CUST01034,Customer 01034,2024-02-21,Consumer,Ahmedabad,West,Referral
+CUST01035,Customer 01035,2022-11-17,Consumer,Ahmedabad,West,Organic Search
+CUST01036,Customer 01036,2025-01-22,Consumer,Kolkata,East,Referral
+CUST01037,Customer 01037,2024-02-04,Corporate,Pune,West,Organic Search
+CUST01038,Customer 01038,2022-10-17,Consumer,Coimbatore,South,Organic Search
+CUST01039,Customer 01039,2024-03-18,Consumer,Jaipur,North,Direct
+CUST01040,Customer 01040,2023-03-07,Small Business,Pune,West,Direct
+CUST01041,Customer 01041,2023-03-10,Consumer,Delhi,North,Referral
+CUST01042,Customer 01042,2022-10-19,Consumer,Coimbatore,South,Organic Search
+CUST01043,Customer 01043,2023-02-02,Consumer,Pune,West,Referral
+CUST01044,Customer 01044,2022-04-22,Small Business,Jaipur,North,Direct
+CUST01045,Customer 01045,2024-08-02,Consumer,Coimbatore,South,Organic Search
+CUST01046,Customer 01046,2023-05-29,Consumer,Bengaluru,South,Email
+CUST01047,Customer 01047,2023-11-09,Consumer,Ahmedabad,West,Referral
+CUST01048,Customer 01048,2022-07-24,Consumer,Mumbai,West,Organic Search
+CUST01049,Customer 01049,2023-10-13,Consumer,Mumbai,West,Paid Search
+CUST01050,Customer 01050,2025-04-11,Consumer,Pune,West,Social Media
+CUST01051,Customer 01051,2024-05-27,Consumer,Delhi,North,Paid Search
+CUST01052,Customer 01052,2024-06-12,Consumer,Mumbai,West,Paid Search
+CUST01053,Customer 01053,2024-09-09,Consumer,Delhi,North,Paid Search
+CUST01054,Customer 01054,2024-09-24,Consumer,Pune,West,Organic Search
+CUST01055,Customer 01055,2022-06-17,Small Business,Jaipur,North,Direct
+CUST01056,Customer 01056,2025-01-08,Consumer,Hyderabad,South,Email
+CUST01057,Customer 01057,2022-06-04,Small Business,Bengaluru,South,Email
+CUST01058,Customer 01058,2025-04-06,Consumer,Chennai,South,Email
+CUST01059,Customer 01059,2022-03-17,Consumer,Mumbai,West,Social Media
+CUST01060,Customer 01060,2024-08-24,Consumer,Coimbatore,South,Organic Search
+CUST01061,Customer 01061,2023-04-03,Small Business,Kolkata,East,Social Media
+CUST01062,Customer 01062,2022-10-02,Consumer,Pune,West,Social Media
+CUST01063,Customer 01063,2024-01-16,Consumer,Kolkata,East,Referral
+CUST01064,Customer 01064,2022-12-06,Small Business,Jaipur,North,Organic Search
+CUST01065,Customer 01065,2023-01-02,Consumer,Hyderabad,South,Social Media
+CUST01066,Customer 01066,2024-09-17,Corporate,Hyderabad,South,Organic Search
+CUST01067,Customer 01067,2023-04-20,Consumer,Ahmedabad,West,Paid Search
+CUST01068,Customer 01068,2023-02-28,Consumer,Chennai,South,Email
+CUST01069,Customer 01069,2024-08-19,Small Business,Kolkata,East,Direct
+CUST01070,Customer 01070,2023-10-26,Consumer,Chennai,South,Direct
+CUST01071,Customer 01071,2023-06-24,Consumer,Pune,West,Social Media
+CUST01072,Customer 01072,2024-02-15,Consumer,Kolkata,East,Referral
+CUST01073,Customer 01073,2024-11-24,Consumer,Bengaluru,South,Direct
+CUST01074,Customer 01074,2024-11-23,Consumer,Mumbai,West,Email
+CUST01075,Customer 01075,2024-09-24,Small Business,Delhi,North,Direct
+CUST01076,Customer 01076,2024-10-24,Small Business,Chennai,South,Paid Search
+CUST01077,Customer 01077,2022-06-07,Consumer,Mumbai,West,Paid Search
+CUST01078,Customer 01078,2023-01-18,Consumer,Hyderabad,South,Referral
+CUST01079,Customer 01079,2023-04-17,Consumer,Bengaluru,South,Paid Search
+CUST01080,Customer 01080,2024-09-13,Consumer,Bengaluru,South,Social Media
+CUST01081,Customer 01081,2022-11-27,Consumer,Jaipur,North,Paid Search
+CUST01082,Customer 01082,2022-03-30,Consumer,Mumbai,West,Social Media
+CUST01083,Customer 01083,2024-11-15,Consumer,Hyderabad,South,Social Media
+CUST01084,Customer 01084,2022-12-07,Consumer,Chennai,South,Organic Search
+CUST01085,Customer 01085,2025-05-12,Corporate,Kolkata,East,Referral
+CUST01086,Customer 01086,2022-06-25,Consumer,Pune,West,Referral
+CUST01087,Customer 01087,2024-09-13,Consumer,Ahmedabad,West,Email
+CUST01088,Customer 01088,2022-10-20,Small Business,Jaipur,North,Email
+CUST01089,Customer 01089,2024-11-12,Consumer,Hyderabad,South,Email
+CUST01090,Customer 01090,2024-07-17,Consumer,Delhi,North,Organic Search
+CUST01091,Customer 01091,2024-02-29,Consumer,Kolkata,East,Organic Search
+CUST01092,Customer 01092,2024-10-29,Consumer,Coimbatore,South,Email
+CUST01093,Customer 01093,2022-07-17,Consumer,Jaipur,North,Direct
+CUST01094,Customer 01094,2022-03-21,Small Business,Jaipur,North,Social Media
+CUST01095,Customer 01095,2022-07-10,Consumer,Bengaluru,South,Organic Search
+CUST01096,Customer 01096,2025-01-09,Small Business,Jaipur,North,Direct
+CUST01097,Customer 01097,2024-12-05,Consumer,Kolkata,East,Direct
+CUST01098,Customer 01098,2024-05-28,Consumer,Coimbatore,South,Email
+CUST01099,Customer 01099,2023-12-19,Consumer,Kolkata,East,Email
+CUST01100,Customer 01100,2022-07-20,Consumer,Jaipur,North,Paid Search
+CUST01101,Customer 01101,2022-06-21,Consumer,Mumbai,West,Direct
+CUST01102,Customer 01102,2023-06-12,Consumer,Kolkata,East,Referral
+CUST01103,Customer 01103,2025-03-29,Consumer,Chennai,South,Social Media
+CUST01104,Customer 01104,2023-02-25,Consumer,Kolkata,East,Paid Search
+CUST01105,Customer 01105,2022-08-07,Consumer,Delhi,North,Referral
+CUST01106,Customer 01106,2023-06-20,Small Business,Pune,West,Paid Search
+CUST01107,Customer 01107,2023-07-19,Corporate,Delhi,North,Paid Search
+CUST01108,Customer 01108,2024-04-26,Consumer,Mumbai,West,Social Media
+CUST01109,Customer 01109,2024-01-29,Consumer,Hyderabad,South,Social Media
+CUST01110,Customer 01110,2025-03-29,Consumer,Pune,West,Referral
+CUST01111,Customer 01111,2022-09-01,Small Business,Hyderabad,South,Paid Search
+CUST01112,Customer 01112,2022-07-25,Consumer,Hyderabad,South,Paid Search
+CUST01113,Customer 01113,2025-02-01,Consumer,Delhi,North,Referral
+CUST01114,Customer 01114,2022-11-26,Consumer,Chennai,South,Referral
+CUST01115,Customer 01115,2022-10-25,Consumer,Bengaluru,South,Referral
+CUST01116,Customer 01116,2022-05-12,Consumer,Bengaluru,South,Paid Search
+CUST01117,Customer 01117,2022-03-19,Small Business,Jaipur,North,Direct
+CUST01118,Customer 01118,2024-12-03,Consumer,Kolkata,East,Direct
+CUST01119,Customer 01119,2022-12-25,Consumer,Chennai,South,Paid Search
+CUST01120,Customer 01120,2024-11-27,Consumer,Mumbai,West,Organic Search
+CUST01121,Customer 01121,2024-11-11,Consumer,Jaipur,North,Organic Search
+CUST01122,Customer 01122,2022-03-15,Consumer,Hyderabad,South,Referral
+CUST01123,Customer 01123,2022-06-27,Corporate,Hyderabad,South,Email
+CUST01124,Customer 01124,2024-03-20,Consumer,Delhi,North,Organic Search
+CUST01125,Customer 01125,2022-05-21,Small Business,Chennai,South,Social Media
+CUST01126,Customer 01126,2025-04-08,Consumer,Coimbatore,South,Direct
+CUST01127,Customer 01127,2023-04-09,Consumer,Pune,West,Organic Search
+CUST01128,Customer 01128,2025-03-23,Consumer,Kolkata,East,Organic Search
+CUST01129,Customer 01129,2022-08-07,Consumer,Coimbatore,South,Social Media
+CUST01130,Customer 01130,2022-08-28,Small Business,Delhi,North,Direct
+CUST01131,Customer 01131,2025-03-23,Consumer,Coimbatore,South,Paid Search
+CUST01132,Customer 01132,2025-02-27,Consumer,Kolkata,East,Organic Search
+CUST01133,Customer 01133,2024-07-28,Consumer,Delhi,North,Direct
+CUST01134,Customer 01134,2024-09-14,Consumer,Chennai,South,Organic Search
+CUST01135,Customer 01135,2023-04-16,Small Business,Mumbai,West,Paid Search
+CUST01136,Customer 01136,2024-11-23,Consumer,Delhi,North,Referral
+CUST01137,Customer 01137,2023-05-24,Consumer,Pune,West,Paid Search
+CUST01138,Customer 01138,2022-06-05,Consumer,Delhi,North,Organic Search
+CUST01139,Customer 01139,2023-12-26,Consumer,Delhi,North,Social Media
+CUST01140,Customer 01140,2023-01-25,Consumer,Hyderabad,South,Organic Search
+CUST01141,Customer 01141,2023-06-28,Consumer,Mumbai,West,Organic Search
+CUST01142,Customer 01142,2023-12-31,Consumer,Mumbai,West,Organic Search
+CUST01143,Customer 01143,2024-10-05,Consumer,Bengaluru,South,Email
+CUST01144,Customer 01144,2022-03-28,Small Business,Coimbatore,South,Paid Search
+CUST01145,Customer 01145,2024-10-05,Small Business,Delhi,North,Direct
+CUST01146,Customer 01146,2023-07-17,Consumer,Jaipur,North,Direct
+CUST01147,Customer 01147,2023-07-28,Consumer,Coimbatore,South,Email
+CUST01148,Customer 01148,2022-04-21,Consumer,Hyderabad,South,Paid Search
+CUST01149,Customer 01149,2022-03-08,Consumer,Coimbatore,South,Paid Search
+CUST01150,Customer 01150,2024-07-25,Corporate,Hyderabad,South,Referral
+CUST01151,Customer 01151,2023-10-09,Consumer,Ahmedabad,West,Organic Search
+CUST01152,Customer 01152,2024-02-17,Consumer,Mumbai,West,Paid Search
+CUST01153,Customer 01153,2023-06-16,Consumer,Jaipur,North,Paid Search
+CUST01154,Customer 01154,2024-08-23,Corporate,Pune,West,Paid Search
+CUST01155,Customer 01155,2024-10-18,Consumer,Hyderabad,South,Paid Search
+CUST01156,Customer 01156,2024-01-18,Small Business,Delhi,North,Paid Search
+CUST01157,Customer 01157,2025-03-16,Consumer,Hyderabad,South,Social Media
+CUST01158,Customer 01158,2022-07-24,Small Business,Mumbai,West,Email
+CUST01159,Customer 01159,2024-06-04,Small Business,Coimbatore,South,Organic Search
+CUST01160,Customer 01160,2024-08-26,Small Business,Hyderabad,South,Organic Search
+CUST01161,Customer 01161,2022-10-03,Corporate,Ahmedabad,West,Email
+CUST01162,Customer 01162,2024-12-29,Small Business,Coimbatore,South,Email
+CUST01163,Customer 01163,2023-05-29,Consumer,Pune,West,Social Media
+CUST01164,Customer 01164,2022-07-22,Consumer,Kolkata,East,Organic Search
+CUST01165,Customer 01165,2024-09-02,Small Business,Pune,West,Organic Search
+CUST01166,Customer 01166,2023-06-17,Consumer,Delhi,North,Social Media
+CUST01167,Customer 01167,2023-12-06,Consumer,Pune,West,Organic Search
+CUST01168,Customer 01168,2023-02-12,Consumer,Jaipur,North,Referral
+CUST01169,Customer 01169,2022-12-24,Corporate,Coimbatore,South,Paid Search
+CUST01170,Customer 01170,2024-11-11,Consumer,Delhi,North,Email
+CUST01171,Customer 01171,2024-02-20,Consumer,Bengaluru,South,Social Media
+CUST01172,Customer 01172,2022-12-10,Consumer,Hyderabad,South,Direct
+CUST01173,Customer 01173,2025-03-16,Consumer,Kolkata,East,Direct
+CUST01174,Customer 01174,2022-11-28,Consumer,Bengaluru,South,Paid Search
+CUST01175,Customer 01175,2023-07-02,Consumer,Pune,West,Paid Search
+CUST01176,Customer 01176,2024-01-14,Small Business,Ahmedabad,West,Social Media
+CUST01177,Customer 01177,2024-04-27,Consumer,Ahmedabad,West,Direct
+CUST01178,Customer 01178,2023-04-26,Consumer,Hyderabad,South,Direct
+CUST01179,Customer 01179,2023-03-08,Consumer,Bengaluru,South,Organic Search
+CUST01180,Customer 01180,2024-08-27,Consumer,Bengaluru,South,Organic Search
+CUST01181,Customer 01181,2024-12-09,Small Business,Kolkata,East,Organic Search
+CUST01182,Customer 01182,2022-11-15,Consumer,Pune,West,Direct
+CUST01183,Customer 01183,2023-09-26,Consumer,Kolkata,East,Email
+CUST01184,Customer 01184,2022-09-16,Consumer,Ahmedabad,West,Email
+CUST01185,Customer 01185,2022-03-13,Consumer,Chennai,South,Direct
+CUST01186,Customer 01186,2024-09-02,Consumer,Delhi,North,Direct
+CUST01187,Customer 01187,2025-01-28,Consumer,Pune,West,Direct
+CUST01188,Customer 01188,2022-12-29,Consumer,Coimbatore,South,Social Media
+CUST01189,Customer 01189,2024-06-09,Consumer,Jaipur,North,Referral
+CUST01190,Customer 01190,2023-12-13,Consumer,Pune,West,Organic Search
+CUST01191,Customer 01191,2024-06-23,Consumer,Bengaluru,South,Paid Search
+CUST01192,Customer 01192,2023-09-14,Consumer,Hyderabad,South,Social Media
+CUST01193,Customer 01193,2023-12-06,Consumer,Hyderabad,South,Social Media
+CUST01194,Customer 01194,2024-09-04,Consumer,Ahmedabad,West,Email
+CUST01195,Customer 01195,2025-05-07,Consumer,Pune,West,Organic Search
+CUST01196,Customer 01196,2023-01-22,Consumer,Delhi,North,Social Media
+CUST01197,Customer 01197,2023-05-27,Consumer,Kolkata,East,Email
+CUST01198,Customer 01198,2024-02-14,Consumer,Kolkata,East,Organic Search
+CUST01199,Customer 01199,2024-11-24,Small Business,Mumbai,West,Direct
+CUST01200,Customer 01200,2023-08-07,Consumer,Pune,West,Social Media

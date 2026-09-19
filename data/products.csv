@@ -1,0 +1,221 @@
+product_id,product_name,category,subcategory,unit_cost,list_price,product_tier
+PROD0001,Personal Care Product 0001,Beauty,Personal Care,3448.97,4107.99,Premium
+PROD0002,Audio Product 0002,Electronics,Audio,11149.71,14642.7,Standard
+PROD0003,Decor Product 0003,Home & Kitchen,Decor,427.57,504.44,Standard
+PROD0004,Appliances Product 0004,Home & Kitchen,Appliances,5135.49,6291.1,Standard
+PROD0005,Laptops Product 0005,Electronics,Laptops,1696.33,1965.77,Standard
+PROD0006,Footwear Product 0006,Fashion,Footwear,14160.2,20518.66,Standard
+PROD0007,Stationery Product 0007,Office,Stationery,5998.06,9933.55,Value
+PROD0008,Accessories Product 0008,Electronics,Accessories,13979.7,16675.42,Standard
+PROD0009,Decor Product 0009,Home & Kitchen,Decor,14725.13,24251.57,Premium
+PROD0010,Supplies Product 0010,Office,Supplies,6975.58,12102.52,Standard
+PROD0011,Laptops Product 0011,Electronics,Laptops,8338.16,13446.1,Standard
+PROD0012,Storage Product 0012,Home & Kitchen,Storage,7053.08,12178.75,Value
+PROD0013,Appliances Product 0013,Home & Kitchen,Appliances,13425.46,19866.3,Premium
+PROD0014,Footwear Product 0014,Fashion,Footwear,3641.13,6126.24,Value
+PROD0015,Appliances Product 0015,Home & Kitchen,Appliances,4308.51,6077.14,Premium
+PROD0016,Skincare Product 0016,Beauty,Skincare,7172.88,9295,Value
+PROD0017,Equipment Product 0017,Sports,Equipment,12416.25,15433.34,Value
+PROD0018,Cookware Product 0018,Home & Kitchen,Cookware,9038.55,14114.3,Standard
+PROD0019,Stationery Product 0019,Office,Stationery,1151.17,1769.05,Standard
+PROD0020,Laptops Product 0020,Electronics,Laptops,8822.14,11822.05,Standard
+PROD0021,Furniture Product 0021,Office,Furniture,14515.01,20513.07,Premium
+PROD0022,Printers Product 0022,Office,Printers,6498.36,7998.44,Value
+PROD0023,Accessories Product 0023,Fashion,Accessories,10097.72,14900.6,Standard
+PROD0024,Outdoor Product 0024,Sports,Outdoor,9821.68,13202.39,Standard
+PROD0025,Outdoor Product 0025,Sports,Outdoor,1314.27,1633.66,Standard
+PROD0026,Makeup Product 0026,Beauty,Makeup,8217.1,13275.14,Standard
+PROD0027,Supplies Product 0027,Office,Supplies,15902.15,24200.54,Standard
+PROD0028,Outdoor Product 0028,Sports,Outdoor,5826.84,6922.32,Value
+PROD0029,Women Product 0029,Fashion,Women,9471.33,13719.5,Standard
+PROD0030,Sportswear Product 0030,Sports,Sportswear,5860.99,8993.94,Premium
+PROD0031,Fitness Product 0031,Sports,Fitness,864.49,1480.59,Premium
+PROD0032,Laptops Product 0032,Electronics,Laptops,1998.43,2527.95,Premium
+PROD0033,Printers Product 0033,Office,Printers,11869.95,17395.33,Standard
+PROD0034,Skincare Product 0034,Beauty,Skincare,6645.06,10057.78,Premium
+PROD0035,Storage Product 0035,Home & Kitchen,Storage,16716.99,27570.44,Standard
+PROD0036,Stationery Product 0036,Office,Stationery,6547.79,10450.84,Value
+PROD0037,Skincare Product 0037,Beauty,Skincare,14839.68,19432.4,Premium
+PROD0038,Accessories Product 0038,Electronics,Accessories,1476.6,1889.37,Standard
+PROD0039,Laptops Product 0039,Electronics,Laptops,9607.37,12140.61,Standard
+PROD0040,Cookware Product 0040,Home & Kitchen,Cookware,10086.95,14977.96,Standard
+PROD0041,Furniture Product 0041,Office,Furniture,12166.91,19120.67,Standard
+PROD0042,Laptops Product 0042,Electronics,Laptops,14280.91,21135.45,Standard
+PROD0043,Supplies Product 0043,Office,Supplies,9647.5,14567.24,Value
+PROD0044,Makeup Product 0044,Beauty,Makeup,15219.78,21268.21,Standard
+PROD0045,Furniture Product 0045,Office,Furniture,10982.77,16341.12,Standard
+PROD0046,Sportswear Product 0046,Sports,Sportswear,6531.35,9283.94,Value
+PROD0047,Smartphones Product 0047,Electronics,Smartphones,17694.58,26673.83,Standard
+PROD0048,Skincare Product 0048,Beauty,Skincare,5461.98,7008.44,Value
+PROD0049,Accessories Product 0049,Electronics,Accessories,16550.49,24110.14,Standard
+PROD0050,Outdoor Product 0050,Sports,Outdoor,1769.63,2523.89,Premium
+PROD0051,Makeup Product 0051,Beauty,Makeup,16022.09,20827.34,Standard
+PROD0052,Skincare Product 0052,Beauty,Skincare,10303.13,15366.49,Standard
+PROD0053,Accessories Product 0053,Electronics,Accessories,14288.84,17914.51,Value
+PROD0054,Stationery Product 0054,Office,Stationery,10746.54,14295.43,Standard
+PROD0055,Equipment Product 0055,Sports,Equipment,1486.31,1759.13,Value
+PROD0056,Personal Care Product 0056,Beauty,Personal Care,7544.07,12603.87,Value
+PROD0057,Appliances Product 0057,Home & Kitchen,Appliances,11439.26,17494.25,Premium
+PROD0058,Fitness Product 0058,Sports,Fitness,5802.15,8639.1,Standard
+PROD0059,Supplies Product 0059,Office,Supplies,2825.3,4391.03,Value
+PROD0060,Men Product 0060,Fashion,Men,4059.77,5374.61,Standard
+PROD0061,Decor Product 0061,Home & Kitchen,Decor,1559.21,2327.69,Premium
+PROD0062,Footwear Product 0062,Fashion,Footwear,1604.62,2328.45,Value
+PROD0063,Cookware Product 0063,Home & Kitchen,Cookware,8698.13,11036.75,Standard
+PROD0064,Outdoor Product 0064,Sports,Outdoor,10136.12,17720.44,Standard
+PROD0065,Appliances Product 0065,Home & Kitchen,Appliances,4851.33,6830.86,Standard
+PROD0066,Fitness Product 0066,Sports,Fitness,2096.54,2931.28,Standard
+PROD0067,Decor Product 0067,Home & Kitchen,Decor,6253.89,9651.29,Value
+PROD0068,Decor Product 0068,Home & Kitchen,Decor,11122.68,19399.02,Standard
+PROD0069,Storage Product 0069,Home & Kitchen,Storage,884.21,1450.9,Premium
+PROD0070,Haircare Product 0070,Beauty,Haircare,13658.59,22695.91,Premium
+PROD0071,Laptops Product 0071,Electronics,Laptops,17085.02,29147.69,Value
+PROD0072,Skincare Product 0072,Beauty,Skincare,6231.42,10173.22,Standard
+PROD0073,Men Product 0073,Fashion,Men,6027.23,9607.45,Standard
+PROD0074,Sportswear Product 0074,Sports,Sportswear,9914.5,15107.96,Value
+PROD0075,Stationery Product 0075,Office,Stationery,6828.79,11565.4,Standard
+PROD0076,Haircare Product 0076,Beauty,Haircare,1157.17,1470.09,Standard
+PROD0077,Skincare Product 0077,Beauty,Skincare,8412.1,14444.47,Premium
+PROD0078,Furniture Product 0078,Office,Furniture,11960.63,20305.82,Standard
+PROD0079,Smartphones Product 0079,Electronics,Smartphones,5321.52,8940.37,Standard
+PROD0080,Men Product 0080,Fashion,Men,16277.39,23452.42,Standard
+PROD0081,Laptops Product 0081,Electronics,Laptops,3643.84,6304.12,Standard
+PROD0082,Stationery Product 0082,Office,Stationery,792.36,1349.68,Standard
+PROD0083,Accessories Product 0083,Fashion,Accessories,13419.48,15580.33,Standard
+PROD0084,Makeup Product 0084,Beauty,Makeup,4312.79,7491.09,Standard
+PROD0085,Accessories Product 0085,Electronics,Accessories,15825.9,26654.63,Value
+PROD0086,Accessories Product 0086,Electronics,Accessories,4122.44,5586.2,Standard
+PROD0087,Appliances Product 0087,Home & Kitchen,Appliances,13159.62,19245.03,Standard
+PROD0088,Supplies Product 0088,Office,Supplies,7558.61,11290.59,Standard
+PROD0089,Makeup Product 0089,Beauty,Makeup,8129.11,9991.19,Standard
+PROD0090,Outdoor Product 0090,Sports,Outdoor,15537.57,20748.86,Standard
+PROD0091,Outdoor Product 0091,Sports,Outdoor,7786.75,13201.67,Value
+PROD0092,Supplies Product 0092,Office,Supplies,5769.53,8564.31,Value
+PROD0093,Laptops Product 0093,Electronics,Laptops,5771.35,9683.07,Standard
+PROD0094,Personal Care Product 0094,Beauty,Personal Care,17304.64,23049.93,Standard
+PROD0095,Furniture Product 0095,Office,Furniture,2803.07,3539.61,Premium
+PROD0096,Accessories Product 0096,Electronics,Accessories,10932.43,16589.06,Standard
+PROD0097,Appliances Product 0097,Home & Kitchen,Appliances,6517.96,10186.82,Standard
+PROD0098,Equipment Product 0098,Sports,Equipment,12839.38,17646.13,Value
+PROD0099,Accessories Product 0099,Fashion,Accessories,2544.23,3220.88,Premium
+PROD0100,Accessories Product 0100,Electronics,Accessories,17107.55,21958.1,Standard
+PROD0101,Cookware Product 0101,Home & Kitchen,Cookware,1265.16,2158.69,Value
+PROD0102,Equipment Product 0102,Sports,Equipment,12406.5,20719.66,Value
+PROD0103,Accessories Product 0103,Fashion,Accessories,13989.77,21191.12,Value
+PROD0104,Furniture Product 0104,Office,Furniture,7143.18,12239.72,Standard
+PROD0105,Fitness Product 0105,Sports,Fitness,9410.03,13371.33,Value
+PROD0106,Laptops Product 0106,Electronics,Laptops,9375.15,13006.77,Standard
+PROD0107,Equipment Product 0107,Sports,Equipment,9328.99,14258.33,Premium
+PROD0108,Personal Care Product 0108,Beauty,Personal Care,7212.87,9612.83,Value
+PROD0109,Women Product 0109,Fashion,Women,7650.52,11612.58,Premium
+PROD0110,Outdoor Product 0110,Sports,Outdoor,8387.33,12896.87,Premium
+PROD0111,Fitness Product 0111,Sports,Fitness,3301.5,4956.44,Value
+PROD0112,Outdoor Product 0112,Sports,Outdoor,7123.76,9574.88,Premium
+PROD0113,Women Product 0113,Fashion,Women,15895.27,19139.62,Standard
+PROD0114,Supplies Product 0114,Office,Supplies,12953.27,15856.44,Premium
+PROD0115,Footwear Product 0115,Fashion,Footwear,1608.69,2532.67,Standard
+PROD0116,Outdoor Product 0116,Sports,Outdoor,6865.92,9463.74,Value
+PROD0117,Haircare Product 0117,Beauty,Haircare,2985.26,3692.06,Value
+PROD0118,Audio Product 0118,Electronics,Audio,5600.47,8894.09,Value
+PROD0119,Haircare Product 0119,Beauty,Haircare,2186.57,2687.17,Standard
+PROD0120,Sportswear Product 0120,Sports,Sportswear,298.76,432.78,Standard
+PROD0121,Audio Product 0121,Electronics,Audio,4342.78,6528.58,Standard
+PROD0122,Accessories Product 0122,Fashion,Accessories,1502.94,2269.53,Standard
+PROD0123,Sportswear Product 0123,Sports,Sportswear,11186.21,16606.26,Value
+PROD0124,Laptops Product 0124,Electronics,Laptops,2736.75,4219.98,Premium
+PROD0125,Accessories Product 0125,Electronics,Accessories,6013.51,7231.98,Premium
+PROD0126,Cookware Product 0126,Home & Kitchen,Cookware,12123.86,18387.7,Standard
+PROD0127,Outdoor Product 0127,Sports,Outdoor,17395.98,27826.63,Standard
+PROD0128,Smartphones Product 0128,Electronics,Smartphones,13851.73,18612.47,Value
+PROD0129,Audio Product 0129,Electronics,Audio,15192.11,18062.74,Standard
+PROD0130,Accessories Product 0130,Electronics,Accessories,5979.42,8360.75,Standard
+PROD0131,Appliances Product 0131,Home & Kitchen,Appliances,2038.7,3237.12,Standard
+PROD0132,Audio Product 0132,Electronics,Audio,13055.41,19751.1,Value
+PROD0133,Furniture Product 0133,Office,Furniture,7732.8,12826.23,Standard
+PROD0134,Sportswear Product 0134,Sports,Sportswear,16693.73,25350.66,Standard
+PROD0135,Printers Product 0135,Office,Printers,8905.68,11202.85,Standard
+PROD0136,Furniture Product 0136,Office,Furniture,17628.3,20289.27,Premium
+PROD0137,Stationery Product 0137,Office,Stationery,13295.43,16943.68,Standard
+PROD0138,Accessories Product 0138,Fashion,Accessories,895.22,1217.31,Value
+PROD0139,Appliances Product 0139,Home & Kitchen,Appliances,11559.88,18079.77,Standard
+PROD0140,Accessories Product 0140,Electronics,Accessories,5461.09,8082.39,Value
+PROD0141,Accessories Product 0141,Electronics,Accessories,6197.2,9820.32,Standard
+PROD0142,Laptops Product 0142,Electronics,Laptops,3556.76,5869.7,Value
+PROD0143,Accessories Product 0143,Fashion,Accessories,14366.8,22087.39,Standard
+PROD0144,Printers Product 0144,Office,Printers,16065.69,23651.6,Standard
+PROD0145,Men Product 0145,Fashion,Men,15045.09,20004.05,Standard
+PROD0146,Skincare Product 0146,Beauty,Skincare,3812.06,5951.75,Value
+PROD0147,Skincare Product 0147,Beauty,Skincare,17455.47,23011.13,Premium
+PROD0148,Women Product 0148,Fashion,Women,10311.99,14269.11,Standard
+PROD0149,Makeup Product 0149,Beauty,Makeup,12800.33,16805.53,Premium
+PROD0150,Decor Product 0150,Home & Kitchen,Decor,8178.16,14070,Standard
+PROD0151,Haircare Product 0151,Beauty,Haircare,2091.18,3389.73,Value
+PROD0152,Audio Product 0152,Electronics,Audio,9147.42,14904.94,Value
+PROD0153,Cookware Product 0153,Home & Kitchen,Cookware,6174.88,8892.34,Value
+PROD0154,Makeup Product 0154,Beauty,Makeup,2647.85,4430.06,Value
+PROD0155,Outdoor Product 0155,Sports,Outdoor,3756.95,4402.89,Standard
+PROD0156,Fitness Product 0156,Sports,Fitness,153.65,262.65,Standard
+PROD0157,Fitness Product 0157,Sports,Fitness,6052.55,10189.54,Premium
+PROD0158,Furniture Product 0158,Office,Furniture,482.85,775.02,Standard
+PROD0159,Decor Product 0159,Home & Kitchen,Decor,3673.95,4856.74,Standard
+PROD0160,Men Product 0160,Fashion,Men,4965.96,6180.13,Premium
+PROD0161,Fitness Product 0161,Sports,Fitness,3781.87,5144.07,Standard
+PROD0162,Decor Product 0162,Home & Kitchen,Decor,10367.57,12988.13,Standard
+PROD0163,Personal Care Product 0163,Beauty,Personal Care,989.01,1154.57,Value
+PROD0164,Smartphones Product 0164,Electronics,Smartphones,6954.11,8356.56,Standard
+PROD0165,Printers Product 0165,Office,Printers,11124.37,14878.45,Value
+PROD0166,Stationery Product 0166,Office,Stationery,17528.38,28105.81,Standard
+PROD0167,Appliances Product 0167,Home & Kitchen,Appliances,14646.29,24925.25,Standard
+PROD0168,Footwear Product 0168,Fashion,Footwear,12345.85,19458.66,Standard
+PROD0169,Cookware Product 0169,Home & Kitchen,Cookware,2655.49,4480.93,Standard
+PROD0170,Personal Care Product 0170,Beauty,Personal Care,3365.69,5722.88,Standard
+PROD0171,Personal Care Product 0171,Beauty,Personal Care,8816.12,10484.3,Premium
+PROD0172,Accessories Product 0172,Fashion,Accessories,15236.13,20101.86,Standard
+PROD0173,Outdoor Product 0173,Sports,Outdoor,9182.46,12794.95,Standard
+PROD0174,Accessories Product 0174,Electronics,Accessories,10046.21,11980.65,Standard
+PROD0175,Accessories Product 0175,Fashion,Accessories,10662.4,13788.03,Standard
+PROD0176,Storage Product 0176,Home & Kitchen,Storage,6957.99,9424.1,Value
+PROD0177,Equipment Product 0177,Sports,Equipment,14134.91,19947.36,Value
+PROD0178,Outdoor Product 0178,Sports,Outdoor,3181.69,4937.23,Standard
+PROD0179,Printers Product 0179,Office,Printers,2128.67,3209.28,Standard
+PROD0180,Audio Product 0180,Electronics,Audio,3237.04,5579.14,Premium
+PROD0181,Audio Product 0181,Electronics,Audio,5947.16,9140.75,Premium
+PROD0182,Cookware Product 0182,Home & Kitchen,Cookware,15979.73,27036.96,Standard
+PROD0183,Laptops Product 0183,Electronics,Laptops,11922.99,16951.92,Standard
+PROD0184,Equipment Product 0184,Sports,Equipment,3586.35,5590.8,Standard
+PROD0185,Sportswear Product 0185,Sports,Sportswear,16539.55,28315.81,Standard
+PROD0186,Skincare Product 0186,Beauty,Skincare,10522.47,15961.48,Standard
+PROD0187,Decor Product 0187,Home & Kitchen,Decor,1198.4,2026.07,Value
+PROD0188,Accessories Product 0188,Electronics,Accessories,2045.79,2699.06,Premium
+PROD0189,Accessories Product 0189,Fashion,Accessories,11283.84,17795.34,Standard
+PROD0190,Women Product 0190,Fashion,Women,11951.78,17149.88,Premium
+PROD0191,Footwear Product 0191,Fashion,Footwear,15132.13,18802.59,Value
+PROD0192,Supplies Product 0192,Office,Supplies,2486.25,2966.21,Premium
+PROD0193,Printers Product 0193,Office,Printers,11870.05,20594.36,Premium
+PROD0194,Storage Product 0194,Home & Kitchen,Storage,15493.94,26125.1,Standard
+PROD0195,Women Product 0195,Fashion,Women,8222.75,11548.65,Value
+PROD0196,Footwear Product 0196,Fashion,Footwear,4125.28,5795.45,Premium
+PROD0197,Women Product 0197,Fashion,Women,12841.37,16842.1,Value
+PROD0198,Sportswear Product 0198,Sports,Sportswear,679.64,797.03,Standard
+PROD0199,Skincare Product 0199,Beauty,Skincare,10478.42,18096.68,Premium
+PROD0200,Furniture Product 0200,Office,Furniture,8411.66,10068.26,Value
+PROD0201,Laptops Product 0201,Electronics,Laptops,8546.33,13631.5,Value
+PROD0202,Accessories Product 0202,Electronics,Accessories,11065.66,18724.77,Standard
+PROD0203,Audio Product 0203,Electronics,Audio,8216.3,13915.4,Standard
+PROD0204,Personal Care Product 0204,Beauty,Personal Care,6404.23,11121.95,Standard
+PROD0205,Appliances Product 0205,Home & Kitchen,Appliances,12535.32,18910.56,Standard
+PROD0206,Sportswear Product 0206,Sports,Sportswear,1180.61,1692.87,Premium
+PROD0207,Accessories Product 0207,Electronics,Accessories,14575.41,22221.53,Standard
+PROD0208,Laptops Product 0208,Electronics,Laptops,9140.28,15180.79,Standard
+PROD0209,Decor Product 0209,Home & Kitchen,Decor,5011.89,6536.37,Standard
+PROD0210,Outdoor Product 0210,Sports,Outdoor,16389.56,26114.8,Standard
+PROD0211,Haircare Product 0211,Beauty,Haircare,4761.65,7478,Standard
+PROD0212,Fitness Product 0212,Sports,Fitness,6223.84,7472.6,Premium
+PROD0213,Storage Product 0213,Home & Kitchen,Storage,13569.48,18966.99,Standard
+PROD0214,Printers Product 0214,Office,Printers,13089.9,16367.22,Standard
+PROD0215,Skincare Product 0215,Beauty,Skincare,11589.32,18581.05,Premium
+PROD0216,Storage Product 0216,Home & Kitchen,Storage,7225.51,9615.86,Standard
+PROD0217,Outdoor Product 0217,Sports,Outdoor,6886.03,10834.24,Standard
+PROD0218,Storage Product 0218,Home & Kitchen,Storage,292.59,499.26,Standard
+PROD0219,Furniture Product 0219,Office,Furniture,17314.79,27006.32,Premium
+PROD0220,Sportswear Product 0220,Sports,Sportswear,17214.81,24256.9,Value
