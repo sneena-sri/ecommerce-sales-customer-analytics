@@ -139,19 +139,15 @@ The `.pbix` file is available in the `powerbi` folder.
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
-
-### Sales Analysis
-
-![Sales Analysis](screenshots/sales-analysis.png)
+![Executive Overview](screenshots/executive.png)
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/customer-analysis.png)
+![Customer Analysis](screenshots/customer.png)
 
 ### Product Analysis
 
-![Product Analysis](screenshots/product-analysis.png)
+![Product Analysis](screenshots/products.png)
 
 ### Operations
 
